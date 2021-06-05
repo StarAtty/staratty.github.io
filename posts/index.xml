@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on StarAtt</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 01 Jan 2021 19:59:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021</title>
+      <link>http://example.org/posts/2021/</link>
+      <pubDate>Fri, 01 Jan 2021 19:59:38 +0800</pubDate>
+      
+      <guid>http://example.org/posts/2021/</guid>
+      <description>&lt;p&gt;一如往常，晨曦又為新的一年拉開序幕。平常不過的一天因格里曆成為數十億人熬夜的理由，只為了在時鐘歸零的剎那送出無數個新年快樂。如同世上幾乎所有的傳統節慶，對都市裡的人們來說最重要的不是節日本身的意義，而是一個向親友傳達祝福、聯繫感情的理由。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
