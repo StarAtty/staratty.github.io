@@ -1,6 +1,6 @@
 :root {
     --main: #616bff;
-    --secondary: #ee2;
+    --secondary: #dd2;
 }
 
 * {
@@ -14,6 +14,8 @@
     background-size: cover;
     background-position: center;
     position: fixed;
+    top: 0;
+    left: 0;
     height: 100%;
     width: 100%;
     background-image: url("/img/bg1.jpg");
@@ -38,7 +40,7 @@ nav {
 nav a {
     display: inline-block;
     line-height: 22px;
-    margin: 22px;
+    padding: 22px;
     font-size: 20px;
     text-align: center;
 }
@@ -49,7 +51,7 @@ nav a {
 }
 
 a {
-    color: rgb(62, 109, 238);
+    color: rgb(67, 163, 167);
     text-decoration: none;
 }
 
@@ -72,8 +74,17 @@ header span {
 }
 
 header > time {
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 4px;
     display: block;
     font-size: 16px;
+    width: 110px;
+    margin: auto;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
 }
 
 header, footer {
@@ -101,6 +112,7 @@ article time {
     font-size: 14px;
     border-radius: 8px;
     backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     background-color: rgba(155, 155, 155, 0.9);
     text-shadow: none;
 }
@@ -120,15 +132,15 @@ main {
     color: #ddd;
     background-color: rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(6px);
-    box-shadow: 0 0 16px var(--secondary);
-    text-shadow: 1px 1px 1px grey;
+    -webkit-backdrop-filter: blur(6px);
+    box-shadow: 0 0 8px var(--secondary);
 }
 
 .card:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
     background-color: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(10px);
-    text-shadow: 2px 2px 2px #aaa;
+    -webkit-backdrop-filter: blur(10px);
     color: #000;
     transition: ease 0.3s;
     box-shadow: 0 0 24px var(--secondary);
@@ -137,15 +149,12 @@ main {
 article {
     border-radius: 16px;
     padding: 32px;
+    position: relative;
     overflow: hidden;
     margin: 24px 16px;
     height: 336px;
     width: 256px;
     z-index: 1;
-}
-
-a h3:hover {
-    color: var(--main);
 }
 
 article p {
@@ -162,6 +171,14 @@ article p {
     color: var(--secondary);
 }
 
+article:hover .more, article:hover h3 {
+    color: rgb(67, 163, 167);
+}
+
+a h3:hover, article:hover .more:hover {
+    color: var(--main);
+}
+
 p {
     line-height: 1.6;
 }
@@ -169,6 +186,7 @@ p {
 #content {
     background-color: rgba(215, 215, 215, 0.9);
     backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     color: #000;
     padding: 60px;
     border-radius: 10px;
@@ -239,6 +257,7 @@ p {
     margin: 10px 24px;
     background-color: rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 .move:hover {
@@ -248,14 +267,14 @@ p {
 #like-button {
     backdrop-filter: blur(1px);
     height: 235px;
-    margin: 20px 0;
     width: 100%;
 }
 
 footer {
-    border-radius: 10px;
+    border-radius: 4px;
     display: block;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     padding: 10px;
     width: 160px;
     font-size: 18px;
