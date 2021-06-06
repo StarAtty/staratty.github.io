@@ -227,7 +227,7 @@ p {
 @media (max-width: 400px) {
 
     nav a {
-        margin: 22px 18px;
+        padding: 22px 18px;
     }
 
     main {
