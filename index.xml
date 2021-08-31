@@ -6,10 +6,15 @@
     <description>Recent content on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 01 Jan 2021 19:59:38 +0800</lastBuildDate>
-    
-	<atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 31 Aug 2021 17:20:55 +0800</lastBuildDate><atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>天空</title>
+      <link>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</link>
+      <pubDate>Tue, 31 Aug 2021 17:20:55 +0800</pubDate>
+      
+      <guid>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</guid>
+      <description>&lt;p&gt;好久沒親眼望見完整的天空了。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>關於</title>
@@ -17,7 +22,7 @@
       <pubDate>Sun, 06 Jun 2021 10:16:17 +0800</pubDate>
       
       <guid>http://staratt.ml/about/</guid>
-      <description>StarAtt 楓綾，喜歡作曲、程式、将棋，使用 Linux，擅長 RTS。現為 0 A.D. 繁中翻譯。 若有餘力，請訂閱讚賞公民支持創作。</description>
+      <description>喜歡作曲、程式、将棋，使用 Linux，擅長 RTS。現為 0 A.D. 繁中翻譯審核員。 若有餘力，敬請訂閱讚賞公民支持創作。</description>
     </item>
     
     <item>

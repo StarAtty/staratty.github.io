@@ -6,9 +6,15 @@
     <description>Recent content in Tags on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    
-	<atom:link href="http://staratt.ml/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 31 Aug 2021 17:20:55 +0800</lastBuildDate><atom:link href="http://staratt.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随筆</title>
+      <link>http://staratt.ml/tags/%E9%9A%8F%E7%AD%86/</link>
+      <pubDate>Tue, 31 Aug 2021 17:20:55 +0800</pubDate>
+      
+      <guid>http://staratt.ml/tags/%E9%9A%8F%E7%AD%86/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

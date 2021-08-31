@@ -1,6 +1,7 @@
 :root {
-    --main: #616bff;
+    --main: #43a3a7;
     --secondary: #dd2;
+    --link: #616bff;
 }
 
 * {
@@ -18,7 +19,6 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url("/img/bg1.jpg");
     filter: brightness(80%);
     z-index: -1;
 }
@@ -51,7 +51,7 @@ nav a {
 }
 
 a {
-    color: rgb(67, 163, 167);
+    color: var(--link);
     text-decoration: none;
 }
 
@@ -91,13 +91,6 @@ header, footer {
     color: var(--secondary);
 }
 
-a h3 {
-    color: var(--secondary);
-    font-size: 22px;
-    height: 28px;
-    font-weight: 500;
-}
-
 article time {
     display: inline-block;
     font-size: 14px;
@@ -106,14 +99,9 @@ article time {
 }
 
 .tags {
-    color: var(--secondary);
     display: inline-block;
-    padding: 3px 6px;
     font-size: 14px;
-    border-radius: 8px;
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
-    background-color: rgba(155, 155, 155, 0.9);
+    margin-left: 4px;
     text-shadow: none;
 }
 
@@ -147,7 +135,7 @@ main {
 }
 
 article {
-    border-radius: 16px;
+    border-radius: 20px;
     padding: 32px;
     position: relative;
     overflow: hidden;
@@ -155,6 +143,10 @@ article {
     height: 336px;
     width: 256px;
     z-index: 1;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 article p {
@@ -168,14 +160,17 @@ article p {
     position: absolute;
     bottom: 32px;
     left: 32px;
+}
+
+.trans-link {
     color: var(--secondary);
 }
 
-article:hover .more, article:hover h3 {
-    color: rgb(67, 163, 167);
+article:hover .trans-link {
+    color: var(--link);
 }
 
-a h3:hover, article:hover .more:hover {
+article:hover .trans-link:hover {
     color: var(--main);
 }
 
@@ -261,7 +256,7 @@ p {
 }
 
 .move:hover {
-    color: var(--main);
+    color: var(--link);
 }
 
 #like-button {
