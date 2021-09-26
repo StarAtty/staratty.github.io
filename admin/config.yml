@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: "StarAtty/staratty.github.io"
 
 site_url: "staratt.ml"
