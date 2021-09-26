@@ -1,46 +1,29 @@
 backend:
-  name: git-gateway
+  name: github
   repo: "StarAtty/staratty.github.io"
-  branch: "master"
-  site_url: "staratt.ml"
 
+site_url: "staratt.ml"
 media_folder: "static/img"
 public_folder: "/img"
-locale: "zh_Hant"
 
 collections:
   - name: 'posts'
     label: '文章'
+    description: >
+      寫點東西吧～
     folder: 'content/posts'
     create: true
     slug: '{{slug}}'
-    editor:
-      preview: false
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
     fields:
       - { label: '標題', name: 'title', widget: 'string' }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
       - { label: '摘要', name: 'description', widget: 'string' }
       - { label: '內容', name: 'body', widget: 'markdown' }
       - { label: "標籤", name: "tags", widget: "list", required: false}
-      - { label: "分類", name: "categories", widget: "list", required: false}
-  - name: "series"
-    label: "系列"
-    folder: "content/series"
-    create: false
-    fields:
-      - {label: "標題", name: "title", widget: "string"}
-      - {label: "内容", name: "body", widget: "markdown", required: false}
-  - name: "categories"
-    label: "分類"
-    folder: "content/categories"
-    create: false
-    fields:
-      - {label: "標題", name: "title", widget: "string"}
-      - {label: "内容", name: "body", widget: "markdown", required: false}
-  - name: "tags"
-    label: "標籤"
-    folder: "content/tags"
-    create: true
-    fields:
-      - {label: "標題", name: "title", widget: "string"}
-      - {label: "内容", name: "body", widget: "markdown", required: false}
