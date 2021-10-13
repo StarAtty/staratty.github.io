@@ -79,8 +79,6 @@ header span {
 }
 
 header > time {
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
     border-radius: 4px;
     display: block;
     font-size: 16px;
@@ -96,11 +94,15 @@ header, footer {
     color: var(--secondary);
 }
 
+h3.trans-link {
+    font-size: 24px;
+}
+
 article time {
     display: inline-block;
     font-size: 14px;
     height: 18px;
-    margin: 6px 0;
+    margin: 6px 0 9px;
 }
 
 .tags {
@@ -163,8 +165,8 @@ article p {
 
 .more {
     position: absolute;
-    bottom: 32px;
-    left: 32px;
+    bottom: 38px;
+    left: 38px;
 }
 
 .trans-link {
@@ -229,6 +231,10 @@ p {
 }
 
 @media (max-width: 400px) {
+
+    nav {
+        background-image: linear-gradient(#424, #402040);
+    }
 
     nav a {
         padding: 22px 18px;
