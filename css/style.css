@@ -1,5 +1,5 @@
 :root {
-    --main: #43a3a7;
+    --main: #338987;
     --secondary: #dd2;
     --link: #616bff;
 }
@@ -24,11 +24,12 @@
 }
 
 body {
+    background-image: linear-gradient(#424,#101);
+    min-height: 96vh;
     overflow: overlay;
 }
 
 nav {
-    background-color: blanchedalmond;
     width: 100%;
     margin: 0;
     position: fixed;
@@ -43,6 +44,10 @@ nav a {
     padding: 22px;
     font-size: 20px;
     text-align: center;
+}
+
+.nav-link, a[href="/"] {
+    color: var(--secondary);
 }
 
 #nav-menu {
@@ -112,21 +117,21 @@ article time {
 }
 
 main {
-    width: 80%;
+    width: 70%;
     margin: auto;
 }
 
 .card {
     color: #ddd;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(32, 16, 32, 0.2);
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
-    box-shadow: 0 0 8px var(--secondary);
+    box-shadow: 0 0 6px var(--secondary);
 }
 
 .card:hover {
     transform: scale(1.05);
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(235, 235, 235, 0.7);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     color: #000;
@@ -135,18 +140,18 @@ main {
 }
 
 article {
-    border-radius: 20px;
-    padding: 32px;
+    border-radius: 24px;
+    padding: 36px;
     position: relative;
     overflow: hidden;
     margin: 24px 16px;
-    height: 336px;
-    width: 256px;
+    height: 360px;
+    width: 280px;
     z-index: 1;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
 }
 
 article p {
@@ -179,12 +184,16 @@ p {
 }
 
 #content {
-    background-color: rgba(215, 215, 215, 0.9);
+    background-color: rgba(215, 215, 215, 0.8);
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
     color: #000;
     padding: 60px;
-    border-radius: 10px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
 
 #content h1 {
@@ -249,7 +258,7 @@ p {
     height: 80px;
     width: 400px;
     padding: 20px;
-    margin: 10px 24px;
+    margin: 40px 24px 0;
     background-color: rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -282,11 +291,11 @@ footer {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: rgba(255, 205, 255, 0.7);
+    background-color: rgba(155, 105, 155, 0.7);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(255, 253, 142, 0.7);
+    background-color: rgba(205, 205, 32, 0.7);
 }
 
 ::-webkit-scrollbar-thumb:active {
