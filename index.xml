@@ -6,7 +6,17 @@
     <description>Recent content on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 31 Aug 2021 17:20:55 +0800</lastBuildDate><atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 22:35:38 +0800</lastBuildDate><atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FOSS List</title>
+      <link>http://staratt.ml/lists/foss/</link>
+      <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
+      
+      <guid>http://staratt.ml/lists/foss/</guid>
+      <description>Everything listed work on Windows, macOS and Linux.
+Web Browser Vivaldi Firefox Brave General HackMD (online collaboration) LibreOffice (office suite) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) nomacs (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
+    </item>
+    
     <item>
       <title>天空</title>
       <link>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</link>
@@ -70,16 +80,6 @@ Open source Aside from Linux, FOSS (Free and open source software) ensures the f
       
       <guid>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
       <description>早歲那知世事艱 自謂深根百世安 如今悔恨將何益 蠟炬成灰淚始乾</description>
-    </item>
-    
-    <item>
-      <title>Great FOSS List</title>
-      <link>http://staratt.ml/lists/foss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staratt.ml/lists/foss/</guid>
-      <description>For our liberty&amp;hellip;
-Web Browser Brave Firefox Vivaldi Paperwork HackMD (online collaboration) LibreOffice Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc Syncthing nomacs VLC Media Player 7-Zip Xplorer OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
     </item>
     
   </channel>
