@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on StarAtt</title>
+    <link>http://staratt.ml/lists/</link>
+    <description>Recent content in Lists on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language><atom:link href="http://staratt.ml/lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great FOSS List</title>
+      <link>http://staratt.ml/lists/foss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://staratt.ml/lists/foss/</guid>
+      <description>For our liberty&amp;hellip;
+Web Browser Brave Firefox Vivaldi Paperwork HackMD (online collaboration) LibreOffice Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc Syncthing nomacs VLC Media Player 7-Zip Xplorer OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
+    </item>
+    
+  </channel>
+</rss>

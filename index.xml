@@ -17,12 +17,14 @@
     </item>
     
     <item>
-      <title>關於</title>
+      <title>About</title>
       <link>http://staratt.ml/about/</link>
       <pubDate>Sun, 06 Jun 2021 10:16:17 +0800</pubDate>
       
       <guid>http://staratt.ml/about/</guid>
-      <description>喜歡作曲、程式、将棋，使用 Linux，擅長 RTS。現為 0 A.D. 繁中翻譯審核員。 若有餘力，敬請訂閱讚賞公民支持創作。</description>
+      <description>Open Source advocate. Composer. Programmer. Pro-gamer. Living somewhere around (24°N, 121°E) on earth.
+Linux Tried various distros since 2018, including Ubuntu, elementary OS, Linux Mint, Zorin OS, Ubuntu Studio, AV Linux, Feren OS, KDE neon, Regata OS, MX Linux, Nitrux, Manjaro, Arch Linux, Archcraft, Garuda Linux. Now live on Manjaro KDE.
+Open source Aside from Linux, FOSS (Free and open source software) ensures the freedom of people to communicate, compute, create, etc.</description>
     </item>
     
     <item>
@@ -32,6 +34,52 @@
       
       <guid>http://staratt.ml/posts/2021/</guid>
       <description>&lt;p&gt;一如往常，晨曦又為新的一年拉開序幕。平常不過的一天因格里曆成為數十億人熬夜的理由，只為了在時鐘歸零的剎那送出無數個新年快樂。如同世上幾乎所有的傳統節慶，對都市裡的人們來說最重要的不是節日本身的意義，而是一個向親友傳達祝福、聯繫感情的理由。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>中秋</title>
+      <link>http://staratt.ml/posts/%E4%B8%AD%E7%A7%8B/</link>
+      <pubDate>Thu, 01 Oct 2020 20:25:54 +0800</pubDate>
+      
+      <guid>http://staratt.ml/posts/%E4%B8%AD%E7%A7%8B/</guid>
+      <description>星垂平野闊 月傍九霄多 塵匣元開鏡 有淚如金波</description>
+    </item>
+    
+    <item>
+      <title>居</title>
+      <link>http://staratt.ml/posts/%E5%B1%85/</link>
+      <pubDate>Wed, 30 Sep 2020 20:39:51 +0800</pubDate>
+      
+      <guid>http://staratt.ml/posts/%E5%B1%85/</guid>
+      <description>滅燭憐光滿 返影入深林 人生不相見 山月照彈琴</description>
+    </item>
+    
+    <item>
+      <title>時</title>
+      <link>http://staratt.ml/posts/%E6%99%82/</link>
+      <pubDate>Tue, 29 Sep 2020 20:29:15 +0800</pubDate>
+      
+      <guid>http://staratt.ml/posts/%E6%99%82/</guid>
+      <description>柳邊人歇待船歸 鄉音無改鬢毛催 勸君莫惜金縷衣 古來征戰幾人回</description>
+    </item>
+    
+    <item>
+      <title>三十三</title>
+      <link>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</link>
+      <pubDate>Tue, 14 Jul 2020 19:56:12 +0800</pubDate>
+      
+      <guid>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
+      <description>早歲那知世事艱 自謂深根百世安 如今悔恨將何益 蠟炬成灰淚始乾</description>
+    </item>
+    
+    <item>
+      <title>Great FOSS List</title>
+      <link>http://staratt.ml/lists/foss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://staratt.ml/lists/foss/</guid>
+      <description>For our liberty&amp;hellip;
+Web Browser Brave Firefox Vivaldi Paperwork HackMD (online collaboration) LibreOffice Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc Syncthing nomacs VLC Media Player 7-Zip Xplorer OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
     </item>
     
   </channel>
