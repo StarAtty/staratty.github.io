@@ -6,7 +6,17 @@
     <description>Recent content on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 19 Sep 2022 22:35:38 +0800</lastBuildDate><atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 23:22:23 +0800</lastBuildDate><atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distros to begin</title>
+      <link>http://staratt.ml/lists/distros/</link>
+      <pubDate>Mon, 10 Oct 2022 23:22:23 +0800</pubDate>
+      
+      <guid>http://staratt.ml/lists/distros/</guid>
+      <description>Here are some distros I like and recommand to start with:
+Debian/Ubuntu Based KDE neon Mint Zorin OS Arch Based Manjaro Xero Linux Why not Ubuntu? Ubuntu 22.04 directs apt install to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.</description>
+    </item>
+    
     <item>
       <title>FOSS List</title>
       <link>http://staratt.ml/lists/foss/</link>
