@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on StarAtt</title>
+    <link>http://staratt.ml/tags/linux/</link>
+    <description>Recent content in Linux on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 13 Feb 2023 11:20:51 +0800</lastBuildDate><atom:link href="http://staratt.ml/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
+      <link>http://staratt.ml/posts/access-windows-onedrive-from-linux/</link>
+      <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
+      
+      <guid>http://staratt.ml/posts/access-windows-onedrive-from-linux/</guid>
+      <description>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。 （若未安裝）安裝 ntfs-3g（支援 FUSE 者後</description>
+    </item>
+    
+  </channel>
+</rss>

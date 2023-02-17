@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="shortcut icon" href="favicon.ico">
+  
+  
+  <title>StarAtt ｜ How to access Windows&#39; OneDrive folder from Linux</title>
+</head>
+<body><nav>
+  <center>
+  <a href="/lists"> Lists</a>
+  <a href="/tags"> Tags</a>
+  
+    <h2><a href="/">StarAtt</a></h2>
+  <a href="/about"> About</a>
+  <a href="/"> 中文</a>
+  
+  </center>
+</nav>
+<hr>
+<div id="content">
+  
+  <center>
+    <h1>
+      How to access Windows&#39; OneDrive folder from Linux
+    </h1>
+    <h4>
+      <time>
+        2023/02/13
+      </time>
+    </h4>
+  </center>
+  
+  <p>My friend had some files in the OneDrive folder on Windows&rsquo; partition, wondering how to access them directly from Linux (because of the <code>unsupported reparse point</code> error). Hence, this article was born.</p>
+<ol>
+<li>Install <code>ntfs-3g</code> (with FUSE support so you can mount drives without <code>sudo</code>).</li>
+<li>Download the plugin from <a href="https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip">Web Archive</a>.</li>
+<li>Extract the zip and place the plugin (<code>ntfs-plugin-9000001a.so</code> in <code>linux-64</code> or other platforms) under <code>/usr/lib/ntfs-3g/</code>. You might need to create the folder yourself.</li>
+<li>Mount the Windows partition with GUI or <code>ntfs-3g /NTFS_partition /mount/point</code>, e.g., <code>ntfs-3g /dev/sda1 /mnt/windows</code>. Unmount first if it has been mounted.</li>
+</ol>
+<h2 id="references">References:</h2>
+<ul>
+<li><a href="https://bugs.launchpad.net/ubuntu/+source/ntfs-3g/+bug/1728354">Bug #1728354 “ntfs: unsupported reparse point” : Bugs : ntfs-3g package : Ubuntu</a></li>
+<li><a href="https://aur.archlinux.org/packages/ntfs-3g-onedrive-bin">AUR (en) - ntfs-3g-onedrive-bin</a></li>
+</ul>
+
+  
+  <iframe id="like-button"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.ml%2fen%2fposts%2faccess-windows-onedrive-from-linux%2f"
+    frameborder=0></iframe>
+  
+</div>
+
+
+
+  <hr><footer>
+    Email: staratt@pm.me
+    <span class="right">This site does not intend to consume your bandwidth.</span>
+</footer>
+</body>
+
+</html>

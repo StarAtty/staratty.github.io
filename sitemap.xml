@@ -1,52 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://staratt.ml/lists/distros/</loc>
-    <lastmod>2022-10-10T23:22:23+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/lists/</loc>
-    <lastmod>2022-10-10T23:22:23+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/</loc>
-    <lastmod>2022-10-10T23:22:23+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/lists/foss/</loc>
-    <lastmod>2022-09-19T22:35:38+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/</loc>
-    <lastmod>2021-08-31T17:20:55+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/tags/</loc>
-    <lastmod>2021-08-31T17:20:55+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</loc>
-    <lastmod>2021-08-31T17:20:55+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/tags/%E9%9A%8F%E7%AD%86/</loc>
-    <lastmod>2021-08-31T17:20:55+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/about/</loc>
-    <lastmod>2021-06-06T10:16:17+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/2021/</loc>
-    <lastmod>2021-01-01T19:59:38+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/%E4%B8%AD%E7%A7%8B/</loc>
-    <lastmod>2020-10-01T20:25:54+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/tags/%E9%9B%86%E5%8F%A5/</loc>
-    <lastmod>2020-10-01T20:25:54+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/%E5%B1%85/</loc>
-    <lastmod>2020-09-30T20:39:51+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/%E6%99%82/</loc>
-    <lastmod>2020-09-29T20:29:15+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</loc>
-    <lastmod>2020-07-14T19:56:12+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/categories/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://staratt.ml/en/sitemap.xml</loc>
+    
+      <lastmod>2023-02-13T11:20:51+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://staratt.ml/zh-tw/sitemap.xml</loc>
+    
+      <lastmod>2023-02-13T11:20:51+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

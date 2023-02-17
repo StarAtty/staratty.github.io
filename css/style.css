@@ -1,18 +1,47 @@
 nav {
-    width: 100%;
-    margin-bottom: -8px;
+  margin: .35em 0 .5em;
+  font-size: 1.1em;
+  width: 100%;
+}
+
+nav h2 {
+  display: inline-block;
+  margin: 0.3em;
+}
+
+h1 {
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 0.8em;
+  margin-top: 0.4em;
+}
+
+li {
+  margin: 0.3em 0;
+}
+
+nav a {
+  margin: 0.1em;
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: #161715;
+  color: #e0e0e0;
   width: 60%;
   margin: auto;
   font-family: sans-serif;
+  font-size: 1.5em;
 }
 
 a {
-  color: yellow;
+  color: #dfdf5b;
   text-decoration: none;
 }
 
@@ -22,14 +51,6 @@ p {
 
 article {
     margin: 6px 0;
-}
-
-nav h2 {
-    display: inline-block;
-}
-
-nav a {
-    margin: 0.5vw;
 }
 
 .right {

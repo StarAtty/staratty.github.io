@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="shortcut icon" href="favicon.ico">
+  
+  
+  <title>StarAtt ｜ 在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
+</head>
+<body><nav>
+  <center>
+  <a href="/lists"> Lists</a>
+  <a href="/tags"> Tags</a>
+  
+    <h2><a href="/">StarAtt</a></h2>
+  <a href="/about"> About</a>
+  <a href="/en"> En</a>
+  
+  </center>
+</nav>
+<hr>
+<div id="content">
+  
+  <center>
+    <h1>
+      在 Linux 存取 Windows 分割區的 OneDrive 資料夾
+    </h1>
+    <h4>
+      <time>
+        2023/02/13
+      </time>
+    </h4>
+  </center>
+  
+  <p>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。</p>
+<ol>
+<li>（若未安裝）安裝 <code>ntfs-3g</code>（支援 FUSE 者後續掛載時不須 <code>sudo</code>）</li>
+<li>從<a href="https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip">這裡</a>下載插件</li>
+<li>解壓縮後把相應平台的插件（如 <code>linux-64</code> 裡的 <code>ntfs-plugin-9000001a.so</code>）放到 <code>/usr/lib/ntfs-3g/</code> 底下（可能需要自行建立資料夾）</li>
+<li>使用 <code>sudo ntfs-3g /分割區 /掛載點</code> 或 GUI 掛載 Windows 分割區，例如：<code>sudo ntfs-3g /dev/sda1 /mnt/windows</code>。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區</li>
+</ol>
+<p>結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。</p>
+<h3 id="資料來源">資料來源</h3>
+<ul>
+<li><a href="https://bugs.launchpad.net/ubuntu/+source/ntfs-3g/+bug/1728354">Bug #1728354 “ntfs: unsupported reparse point” : Bugs : ntfs-3g package : Ubuntu</a></li>
+<li><a href="https://aur.archlinux.org/packages/ntfs-3g-onedrive-bin">AUR (en) - ntfs-3g-onedrive-bin</a></li>
+</ul>
+
+  
+  <iframe id="like-button"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.ml%2fposts%2faccess-windows-onedrive-from-linux%2f"
+    frameborder=0></iframe>
+  
+</div>
+
+<a href="http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/">← 天空</a>
+
+
+
+  <hr><footer>
+    Email: staratt@pm.me
+    <span class="right">This site does not intend to consume your bandwidth.</span>
+</footer>
+</body>
+
+</html>

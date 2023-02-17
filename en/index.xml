@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StarAtt</title>
+    <link>http://staratt.ml/en/</link>
+    <description>Recent content on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Feb 2023 11:20:51 +0800</lastBuildDate><atom:link href="http://staratt.ml/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to access Windows&#39; OneDrive folder from Linux</title>
+      <link>http://staratt.ml/en/posts/access-windows-onedrive-from-linux/</link>
+      <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
+      
+      <guid>http://staratt.ml/en/posts/access-windows-onedrive-from-linux/</guid>
+      <description>My friend had some files in the OneDrive folder on Windows&amp;rsquo; partition, wondering how to access them directly from Linux (because of the unsupported reparse point error). Hence, this article was born.
+Install ntfs-3g (with FUSE support so you can mount drives without sudo). Download the plugin from Web Archive. Extract the zip and place the plugin (ntfs-plugin-9000001a.so in linux-64 or other platforms) under /usr/lib/ntfs-3g/. You might need to create the folder yourself.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://staratt.ml/en/about/</link>
+      <pubDate>Sun, 06 Jun 2021 10:16:17 +0800</pubDate>
+      
+      <guid>http://staratt.ml/en/about/</guid>
+      <description>Open Source advocate. Composer. Programmer. Pro-gamer. Living somewhere around (24°N, 121°E) on earth.
+Linux Tried various distros since 2018, including Ubuntu, elementary OS, Linux Mint, Zorin OS, Ubuntu Studio, AV Linux, Feren OS, KDE neon, Regata OS, MX Linux, Nitrux, Manjaro, Arch Linux, Archcraft, Garuda Linux. Now live on Manjaro KDE.
+Open source Aside from Linux, FOSS (Free and open source software) ensures the freedom of people to communicate, compute, create, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
