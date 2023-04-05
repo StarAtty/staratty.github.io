@@ -40,6 +40,7 @@
 <li>Download the plugin from <a href="https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip">Web Archive</a>.</li>
 <li>Extract the zip and place the plugin (<code>ntfs-plugin-9000001a.so</code> in <code>linux-64</code> or other platforms) under <code>/usr/lib/ntfs-3g/</code>. You might need to create the folder yourself.</li>
 <li>Mount the Windows partition with GUI or <code>ntfs-3g /NTFS_partition /mount/point</code>, e.g., <code>ntfs-3g /dev/sda1 /mnt/windows</code>. Unmount first if it has been mounted.</li>
+<li>If you want to mount the partition during boot, you can add <code>/NTFS_partition /mount/point ntfs-3g defaults 0 0</code> to the end of your <code>/etc/fstab</code>.</li>
 </ol>
 <h2 id="references">References:</h2>
 <ul>
