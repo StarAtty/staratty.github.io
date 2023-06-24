@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://staratt.ml/tags/linux/</loc>
-    <lastmod>2023-02-13T11:20:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.ml/en/tags/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.ml/tags/linux/"
-                />
-  </url><url>
     <loc>http://staratt.ml/posts/</loc>
-    <lastmod>2023-02-13T11:20:51+08:00</lastmod>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +15,11 @@
                 href="http://staratt.ml/posts/"
                 />
   </url><url>
+    <loc>http://staratt.ml/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</loc>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
+  </url><url>
     <loc>http://staratt.ml/</loc>
-    <lastmod>2023-02-13T11:20:51+08:00</lastmod>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +29,19 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://staratt.ml/"
+                />
+  </url><url>
+    <loc>http://staratt.ml/tags/linux/</loc>
+    <lastmod>2023-02-13T11:20:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.ml/en/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.ml/tags/linux/"
                 />
   </url><url>
     <loc>http://staratt.ml/tags/</loc>
