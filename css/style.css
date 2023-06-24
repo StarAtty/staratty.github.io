@@ -41,8 +41,9 @@ h5 {
 
 h6 {
   text-align: center;
-  color: #555;
-  font-size: 0.75rem;
+  color: #aaa;
+  font-size: 0.9rem;
+  margin-block-start: 0;
 }
 
 li {
@@ -78,12 +79,13 @@ article {
 img {
   display: block;
   margin: auto;
+  margin-top: 1.8rem;
   max-width: 95%;
 }
 
 blockquote {
   font-size: 1.05rem;
-  color: #555;
+  color: #aaa;
 }
 
 .right {
