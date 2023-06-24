@@ -64,6 +64,12 @@ article {
     margin: 6px 0;
 }
 
+img {
+  display: block;
+  margin: auto;
+  max-width: 95%;
+}
+
 .right {
     float: right;
 }

@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://staratt.ml/tags/fediverse/</loc>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
+  </url><url>
+    <loc>http://staratt.ml/tags/foss/</loc>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
+  </url><url>
     <loc>http://staratt.ml/posts/</loc>
     <lastmod>2023-06-24T16:03:53+08:00</lastmod>
     <xhtml:link
@@ -31,6 +37,19 @@
                 href="http://staratt.ml/"
                 />
   </url><url>
+    <loc>http://staratt.ml/tags/</loc>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.ml/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.ml/tags/"
+                />
+  </url><url>
     <loc>http://staratt.ml/tags/linux/</loc>
     <lastmod>2023-02-13T11:20:51+08:00</lastmod>
     <xhtml:link
@@ -42,19 +61,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://staratt.ml/tags/linux/"
-                />
-  </url><url>
-    <loc>http://staratt.ml/tags/</loc>
-    <lastmod>2023-02-13T11:20:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.ml/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.ml/tags/"
                 />
   </url><url>
     <loc>http://staratt.ml/posts/access-windows-onedrive-from-linux/</loc>
