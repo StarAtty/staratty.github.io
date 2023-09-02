@@ -13,7 +13,7 @@ nav h2 {
 
 time {
   display: inline-block;
-  width: 6.1rem;
+  width: 5rem;
 }
 
 h1 {
@@ -23,6 +23,7 @@ h1 {
 
 h2 {
   font-size: 1.4rem;
+  margin: 1rem 0;
 }
 
 h3 {
@@ -44,6 +45,11 @@ h6 {
   color: #aaa;
   font-size: 0.9rem;
   margin-block-start: 0;
+}
+
+code {
+  background-color: #443;
+  padding: 0 0.15rem;
 }
 
 li {
