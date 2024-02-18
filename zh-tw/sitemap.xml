@@ -2,136 +2,136 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://staratt.ml/tags/fediverse/</loc>
+    <loc>http://staratt.cc/tags/fediverse/</loc>
     <lastmod>2023-06-24T16:03:53+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/tags/foss/</loc>
+    <loc>http://staratt.cc/tags/foss/</loc>
     <lastmod>2023-06-24T16:03:53+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/posts/</loc>
-    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.ml/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.ml/posts/"
-                />
-  </url><url>
-    <loc>http://staratt.ml/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</loc>
-    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
-  </url><url>
-    <loc>http://staratt.ml/</loc>
+    <loc>http://staratt.cc/posts/</loc>
     <lastmod>2023-06-24T16:03:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://staratt.ml/en/"
+                href="http://staratt.cc/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://staratt.ml/"
+                href="http://staratt.cc/posts/"
                 />
   </url><url>
-    <loc>http://staratt.ml/tags/</loc>
+    <loc>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</loc>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
+  </url><url>
+    <loc>http://staratt.cc/</loc>
     <lastmod>2023-06-24T16:03:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://staratt.ml/en/tags/"
+                href="http://staratt.cc/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://staratt.ml/tags/"
+                href="http://staratt.cc/"
                 />
   </url><url>
-    <loc>http://staratt.ml/tags/linux/</loc>
+    <loc>http://staratt.cc/tags/</loc>
+    <lastmod>2023-06-24T16:03:53+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/tags/"
+                />
+  </url><url>
+    <loc>http://staratt.cc/tags/linux/</loc>
     <lastmod>2023-02-13T11:20:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://staratt.ml/en/tags/linux/"
+                href="http://staratt.cc/en/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://staratt.ml/tags/linux/"
+                href="http://staratt.cc/tags/linux/"
                 />
   </url><url>
-    <loc>http://staratt.ml/posts/access-windows-onedrive-from-linux/</loc>
+    <loc>http://staratt.cc/posts/access-windows-onedrive-from-linux/</loc>
     <lastmod>2023-02-13T11:20:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://staratt.ml/en/posts/access-windows-onedrive-from-linux/"
+                href="http://staratt.cc/en/posts/access-windows-onedrive-from-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://staratt.ml/posts/access-windows-onedrive-from-linux/"
+                href="http://staratt.cc/posts/access-windows-onedrive-from-linux/"
                 />
   </url><url>
-    <loc>http://staratt.ml/lists/distros/</loc>
+    <loc>http://staratt.cc/lists/distros/</loc>
     <lastmod>2022-10-10T23:22:23+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/lists/</loc>
+    <loc>http://staratt.cc/lists/</loc>
     <lastmod>2022-10-10T23:22:23+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/lists/foss/</loc>
+    <loc>http://staratt.cc/lists/foss/</loc>
     <lastmod>2022-09-19T22:35:38+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</loc>
+    <loc>http://staratt.cc/posts/%E5%A4%A9%E7%A9%BA/</loc>
     <lastmod>2021-08-31T17:20:55+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/tags/%E9%9A%A8%E7%AD%86/</loc>
+    <loc>http://staratt.cc/tags/%E9%9A%A8%E7%AD%86/</loc>
     <lastmod>2021-08-31T17:20:55+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/about/</loc>
+    <loc>http://staratt.cc/about/</loc>
     <lastmod>2021-06-06T10:16:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://staratt.ml/en/about/"
+                href="http://staratt.cc/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://staratt.ml/about/"
+                href="http://staratt.cc/about/"
                 />
   </url><url>
-    <loc>http://staratt.ml/posts/2021/</loc>
+    <loc>http://staratt.cc/posts/2021/</loc>
     <lastmod>2021-01-01T19:59:38+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/posts/%E4%B8%AD%E7%A7%8B/</loc>
+    <loc>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</loc>
     <lastmod>2020-10-01T20:25:54+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/tags/%E9%9B%86%E5%8F%A5/</loc>
+    <loc>http://staratt.cc/tags/%E9%9B%86%E5%8F%A5/</loc>
     <lastmod>2020-10-01T20:25:54+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/posts/%E5%B1%85/</loc>
+    <loc>http://staratt.cc/posts/%E5%B1%85/</loc>
     <lastmod>2020-09-30T20:39:51+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/posts/%E6%99%82/</loc>
+    <loc>http://staratt.cc/posts/%E6%99%82/</loc>
     <lastmod>2020-09-29T20:29:15+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</loc>
+    <loc>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</loc>
     <lastmod>2020-07-14T19:56:12+08:00</lastmod>
   </url><url>
-    <loc>http://staratt.ml/categories/</loc>
+    <loc>http://staratt.cc/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://staratt.ml/en/categories/"
+                href="http://staratt.cc/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://staratt.ml/categories/"
+                href="http://staratt.cc/categories/"
                 />
   </url>
 </urlset>

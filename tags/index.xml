@@ -2,55 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on StarAtt</title>
-    <link>http://staratt.ml/tags/</link>
+    <link>http://staratt.cc/tags/</link>
     <description>Recent content in Tags on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 24 Jun 2023 16:03:53 +0800</lastBuildDate><atom:link href="http://staratt.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 16:03:53 +0800</lastBuildDate>
+    <atom:link href="http://staratt.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fediverse</title>
-      <link>http://staratt.ml/tags/fediverse/</link>
+      <link>http://staratt.cc/tags/fediverse/</link>
       <pubDate>Sat, 24 Jun 2023 16:03:53 +0800</pubDate>
-      
-      <guid>http://staratt.ml/tags/fediverse/</guid>
+      <guid>http://staratt.cc/tags/fediverse/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FOSS</title>
-      <link>http://staratt.ml/tags/foss/</link>
+      <link>http://staratt.cc/tags/foss/</link>
       <pubDate>Sat, 24 Jun 2023 16:03:53 +0800</pubDate>
-      
-      <guid>http://staratt.ml/tags/foss/</guid>
+      <guid>http://staratt.cc/tags/foss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux</title>
-      <link>http://staratt.ml/tags/linux/</link>
+      <link>http://staratt.cc/tags/linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
-      
-      <guid>http://staratt.ml/tags/linux/</guid>
+      <guid>http://staratt.cc/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>隨筆</title>
-      <link>http://staratt.ml/tags/%E9%9A%A8%E7%AD%86/</link>
+      <link>http://staratt.cc/tags/%E9%9A%A8%E7%AD%86/</link>
       <pubDate>Tue, 31 Aug 2021 17:20:55 +0800</pubDate>
-      
-      <guid>http://staratt.ml/tags/%E9%9A%A8%E7%AD%86/</guid>
+      <guid>http://staratt.cc/tags/%E9%9A%A8%E7%AD%86/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>集句</title>
-      <link>http://staratt.ml/tags/%E9%9B%86%E5%8F%A5/</link>
+      <link>http://staratt.cc/tags/%E9%9B%86%E5%8F%A5/</link>
       <pubDate>Thu, 01 Oct 2020 20:25:54 +0800</pubDate>
-      
-      <guid>http://staratt.ml/tags/%E9%9B%86%E5%8F%A5/</guid>
+      <guid>http://staratt.cc/tags/%E9%9B%86%E5%8F%A5/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on StarAtt</title>
-    <link>http://staratt.ml/en/tags/linux/</link>
+    <link>http://staratt.cc/en/tags/linux/</link>
     <description>Recent content in Linux on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 11:20:51 +0800</lastBuildDate><atom:link href="http://staratt.ml/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 11:20:51 +0800</lastBuildDate>
+    <atom:link href="http://staratt.cc/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to access Windows&#39; OneDrive folder from Linux</title>
-      <link>http://staratt.ml/en/posts/access-windows-onedrive-from-linux/</link>
+      <link>http://staratt.cc/en/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
-      
-      <guid>http://staratt.ml/en/posts/access-windows-onedrive-from-linux/</guid>
-      <description>My friend had some files in the OneDrive folder on Windows&amp;rsquo; partition, wondering how to access them directly from Linux (because of the unsupported reparse point error). Hence, this article was born.
-Install ntfs-3g (with FUSE support so you can mount drives without sudo). Download the plugin from Web Archive. Extract the zip and place the plugin (ntfs-plugin-9000001a.so in linux-64 or other platforms) under /usr/lib/ntfs-3g/. You might need to create the folder yourself.</description>
+      <guid>http://staratt.cc/en/posts/access-windows-onedrive-from-linux/</guid>
+      <description>My friend had some files in the OneDrive folder on Windows&amp;rsquo; partition, wondering how to access them directly from Linux (because of the unsupported reparse point error). Hence, this article was born.&#xA;Install ntfs-3g (with FUSE support so you can mount drives without sudo). Download the plugin from Web Archive. Extract the zip and place the plugin (ntfs-plugin-9000001a.so in linux-64 or other platforms) under /usr/lib/ntfs-3g/. You might need to create the folder yourself.</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,111 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>StarAtt</title>
-    <link>http://staratt.ml/</link>
+    <link>http://staratt.cc/</link>
     <description>Recent content on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 24 Jun 2023 16:03:53 +0800</lastBuildDate><atom:link href="http://staratt.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 16:03:53 +0800</lastBuildDate>
+    <atom:link href="http://staratt.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reddit 的新 API 條款會使人們投向去中心化平台嗎？</title>
-      <link>http://staratt.ml/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</link>
+      <link>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</link>
       <pubDate>Sat, 24 Jun 2023 16:03:53 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</guid>
+      <guid>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</guid>
       <description>Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出</description>
     </item>
-    
     <item>
       <title>在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
-      <link>http://staratt.ml/posts/access-windows-onedrive-from-linux/</link>
+      <link>http://staratt.cc/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/access-windows-onedrive-from-linux/</guid>
+      <guid>http://staratt.cc/posts/access-windows-onedrive-from-linux/</guid>
       <description>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。 （若未安裝）安裝 ntfs-3g（支援 FUSE 者後</description>
     </item>
-    
     <item>
       <title>Distros to begin</title>
-      <link>http://staratt.ml/lists/distros/</link>
+      <link>http://staratt.cc/lists/distros/</link>
       <pubDate>Mon, 10 Oct 2022 23:22:23 +0800</pubDate>
-      
-      <guid>http://staratt.ml/lists/distros/</guid>
-      <description>Here are some distros I like and recommand to start with:
-Debian/Ubuntu Based KDE neon Mint Zorin OS Arch Based Manjaro Xero Linux Why not Ubuntu? Ubuntu 22.04 directs apt install to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.</description>
+      <guid>http://staratt.cc/lists/distros/</guid>
+      <description>Here are some distros I like and recommand to start with:&#xA;Debian/Ubuntu Based KDE neon Mint Zorin OS Arch Based Manjaro Xero Linux Why not Ubuntu? Ubuntu 22.04 directs apt install to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.</description>
     </item>
-    
     <item>
       <title>FOSS List</title>
-      <link>http://staratt.ml/lists/foss/</link>
+      <link>http://staratt.cc/lists/foss/</link>
       <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
-      
-      <guid>http://staratt.ml/lists/foss/</guid>
-      <description>Everything listed work on Windows, macOS and Linux.
-Web Browser Vivaldi Firefox Brave General HackMD (online collaboration) LibreOffice (office suite) Marktext (Markdown editor) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) ImageGlass (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
+      <guid>http://staratt.cc/lists/foss/</guid>
+      <description>Everything listed work on Windows, macOS and Linux.&#xA;Web Browser Vivaldi Firefox Brave General HackMD (online collaboration) LibreOffice (office suite) Marktext (Markdown editor) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) ImageGlass (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
     </item>
-    
     <item>
       <title>天空</title>
-      <link>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</link>
+      <link>http://staratt.cc/posts/%E5%A4%A9%E7%A9%BA/</link>
       <pubDate>Tue, 31 Aug 2021 17:20:55 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/%E5%A4%A9%E7%A9%BA/</guid>
+      <guid>http://staratt.cc/posts/%E5%A4%A9%E7%A9%BA/</guid>
       <description>&lt;p&gt;好久沒親眼望見完整的天空了。一百多天來，幾乎每天都窩在家裡，依陽光從窗戶照進的角度、光量、顏色驅動生理時鐘。除了需要面對鏡頭的時間以外，時間好像只要以小時計算就已足夠。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>http://staratt.ml/about/</link>
+      <link>http://staratt.cc/about/</link>
       <pubDate>Sun, 06 Jun 2021 10:16:17 +0800</pubDate>
-      
-      <guid>http://staratt.ml/about/</guid>
-      <description>最近（2023 年 9 月）在翻譯 MuseScore、打甘美朗、學 Rust。 Linux 從 2018 年起，用過各種大小 Linux 發行版，包括 Ubuntu, elementary OS, Linux Mint, Zorin OS, Ubuntu Studio, AV Linux, Feren OS, KDE neon, Regata</description>
+      <guid>http://staratt.cc/about/</guid>
+      <description>最近在學古琴、讀中庸、玩遊戲、寫東西。 Linux 從 2018 年起，用過各種大小 Linux 發行版，包括 Ubuntu, elementary OS, Linux Mint, Zorin OS, Ubuntu Studio, AV Linux, Feren OS, KDE neon, Regata OS, MX Linux, Nitrux, Manjaro, Arch Linux, Archcraft, Garuda Linux, Void Linux, openSUSE Thu</description>
     </item>
-    
     <item>
       <title>2021</title>
-      <link>http://staratt.ml/posts/2021/</link>
+      <link>http://staratt.cc/posts/2021/</link>
       <pubDate>Fri, 01 Jan 2021 19:59:38 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/2021/</guid>
+      <guid>http://staratt.cc/posts/2021/</guid>
       <description>&lt;p&gt;一如往常，晨曦又為新的一年拉開序幕。平常不過的一天因格里曆成為數十億人熬夜的理由，只為了在時鐘歸零的剎那送出無數個新年快樂。如同世上幾乎所有的傳統節慶，對都市裡的人們來說最重要的不是節日本身的意義，而是一個向親友傳達祝福、聯繫感情的理由。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>中秋</title>
-      <link>http://staratt.ml/posts/%E4%B8%AD%E7%A7%8B/</link>
+      <link>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</link>
       <pubDate>Thu, 01 Oct 2020 20:25:54 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/%E4%B8%AD%E7%A7%8B/</guid>
+      <guid>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</guid>
       <description>星垂平野闊 月傍九霄多 塵匣元開鏡 有淚如金波</description>
     </item>
-    
     <item>
       <title>居</title>
-      <link>http://staratt.ml/posts/%E5%B1%85/</link>
+      <link>http://staratt.cc/posts/%E5%B1%85/</link>
       <pubDate>Wed, 30 Sep 2020 20:39:51 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/%E5%B1%85/</guid>
+      <guid>http://staratt.cc/posts/%E5%B1%85/</guid>
       <description>滅燭憐光滿 返影入深林 人生不相見 山月照彈琴</description>
     </item>
-    
     <item>
       <title>時</title>
-      <link>http://staratt.ml/posts/%E6%99%82/</link>
+      <link>http://staratt.cc/posts/%E6%99%82/</link>
       <pubDate>Tue, 29 Sep 2020 20:29:15 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/%E6%99%82/</guid>
+      <guid>http://staratt.cc/posts/%E6%99%82/</guid>
       <description>柳邊人歇待船歸 鄉音無改鬢毛催 勸君莫惜金縷衣 古來征戰幾人回</description>
     </item>
-    
     <item>
       <title>三十三</title>
-      <link>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</link>
+      <link>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</link>
       <pubDate>Tue, 14 Jul 2020 19:56:12 +0800</pubDate>
-      
-      <guid>http://staratt.ml/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
+      <guid>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
       <description>早歲那知世事艱 自謂深根百世安 如今悔恨將何益 蠟炬成灰淚始乾</description>
     </item>
-    
   </channel>
 </rss>
