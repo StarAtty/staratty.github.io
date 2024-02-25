@@ -25,7 +25,7 @@ nav > a[href="/"] {
   padding: 0;
 }
 
-a[href="/"] > span {
+.hidden {
   visibility: hidden;
 }
 
