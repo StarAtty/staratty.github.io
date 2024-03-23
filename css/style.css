@@ -41,7 +41,7 @@ footer {
 }
 
 footer .right {
-  margin: -0.18rem 0 0 0;
+  margin: 0;
 }
 
 nav .right a {
@@ -109,7 +109,7 @@ a {
 }
 
 a:hover {
-  color: #27e456;
+  color: #16e6a1;
   transition: color 0.25s;
 }
 

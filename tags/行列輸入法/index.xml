@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行列輸入法 on StarAtt</title>
+    <link>http://staratt.cc/tags/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</link>
+    <description>Recent content in 行列輸入法 on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 18 Feb 2024 21:06:47 +0800</lastBuildDate>
+    <atom:link href="http://staratt.cc/tags/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>行列輸入法</title>
+      <link>http://staratt.cc/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</link>
+      <pubDate>Sun, 18 Feb 2024 21:06:47 +0800</pubDate>
+      <guid>http://staratt.cc/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</guid>
+      <description>我從 2021 年開始學行列輸入法。當時想學個字形輸入法，查一查發現行列輸入法有每分鐘 215.5 字的紀錄，免費、開源又有魚上君做的介紹兼練習網站，我就開始學了</description>
+    </item>
+  </channel>
+</rss>
