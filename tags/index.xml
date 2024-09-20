@@ -4,10 +4,24 @@
     <title>Tags on StarAtt</title>
     <link>http://staratt.cc/tags/</link>
     <description>Recent content in Tags on StarAtt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 23 Mar 2024 10:49:08 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 20:26:28 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>作曲</title>
+      <link>http://staratt.cc/tags/%E4%BD%9C%E6%9B%B2/</link>
+      <pubDate>Thu, 19 Sep 2024 20:26:28 +0800</pubDate>
+      <guid>http://staratt.cc/tags/%E4%BD%9C%E6%9B%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>管樂團</title>
+      <link>http://staratt.cc/tags/%E7%AE%A1%E6%A8%82%E5%9C%98/</link>
+      <pubDate>Thu, 19 Sep 2024 20:26:28 +0800</pubDate>
+      <guid>http://staratt.cc/tags/%E7%AE%A1%E6%A8%82%E5%9C%98/</guid>
+      <description></description>
+    </item>
     <item>
       <title>隨筆</title>
       <link>http://staratt.cc/tags/%E9%9A%A8%E7%AD%86/</link>

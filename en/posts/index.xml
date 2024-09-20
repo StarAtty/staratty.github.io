@@ -4,7 +4,7 @@
     <title>Posts on StarAtt</title>
     <link>http://staratt.cc/en/posts/</link>
     <description>Recent content in Posts on StarAtt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Feb 2023 11:20:51 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/en/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://staratt.cc/en/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
       <guid>http://staratt.cc/en/posts/access-windows-onedrive-from-linux/</guid>
-      <description>My friend had some files in the OneDrive folder on Windows&amp;rsquo; partition, wondering how to access them directly from Linux (because of the unsupported reparse point error). Hence, this article was born.&#xA;Install ntfs-3g (with FUSE support so you can mount drives without sudo). Download the plugin from Web Archive. Extract the zip and place the plugin (ntfs-plugin-9000001a.so in linux-64 or other platforms) under /usr/lib/ntfs-3g/. You might need to create the folder yourself.</description>
+      <description>&lt;p&gt;My friend had some files in the OneDrive folder on Windows&amp;rsquo; partition, wondering how to access them directly from Linux (because of the &lt;code&gt;unsupported reparse point&lt;/code&gt; error). Hence, this article was born.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Install &lt;code&gt;ntfs-3g&lt;/code&gt; (with FUSE support so you can mount drives without &lt;code&gt;sudo&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Download the plugin from &lt;a href=&#34;https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip&#34;&gt;Web Archive&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Extract the zip and place the plugin (&lt;code&gt;ntfs-plugin-9000001a.so&lt;/code&gt; in &lt;code&gt;linux-64&lt;/code&gt; or other platforms) under &lt;code&gt;/usr/lib/ntfs-3g/&lt;/code&gt;. You might need to create the folder yourself.&lt;/li&gt;&#xA;&lt;li&gt;Mount the Windows partition with GUI or &lt;code&gt;ntfs-3g /NTFS_partition /mount/point&lt;/code&gt;, e.g., &lt;code&gt;ntfs-3g /dev/sda1 /mnt/windows&lt;/code&gt;. Unmount first if it has been mounted.&lt;/li&gt;&#xA;&lt;li&gt;If you want to mount the partition during boot, you can add &lt;code&gt;/NTFS_partition /mount/point ntfs-3g defaults 0 0&lt;/code&gt; to the end of your &lt;code&gt;/etc/fstab&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bugs.launchpad.net/ubuntu/+source/ntfs-3g/+bug/1728354&#34;&gt;Bug #1728354 “ntfs: unsupported reparse point” : Bugs : ntfs-3g package : Ubuntu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://aur.archlinux.org/packages/ntfs-3g-onedrive-bin&#34;&gt;AUR (en) - ntfs-3g-onedrive-bin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

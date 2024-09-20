@@ -4,7 +4,7 @@
     <title>Linux on StarAtt</title>
     <link>http://staratt.cc/tags/linux/</link>
     <description>Recent content in Linux on StarAtt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 13 Feb 2023 11:20:51 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/linux/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://staratt.cc/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
       <guid>http://staratt.cc/posts/access-windows-onedrive-from-linux/</guid>
-      <description>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。 （若未安裝）安裝 ntfs-3g（支援 FUSE 者後</description>
+      <description>&lt;p&gt;朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;（若未安裝）安裝 &lt;code&gt;ntfs-3g&lt;/code&gt;（支援 FUSE 者後續掛載時不須 &lt;code&gt;sudo&lt;/code&gt;）&lt;/li&gt;&#xA;&lt;li&gt;從&lt;a href=&#34;https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip&#34;&gt;這裡&lt;/a&gt;下載插件&lt;/li&gt;&#xA;&lt;li&gt;解壓縮後把相應平台的插件（如 &lt;code&gt;linux-64&lt;/code&gt; 裡的 &lt;code&gt;ntfs-plugin-9000001a.so&lt;/code&gt;）放到 &lt;code&gt;/usr/lib/ntfs-3g/&lt;/code&gt; 底下（可能需要自行建立資料夾）&lt;/li&gt;&#xA;&lt;li&gt;使用 &lt;code&gt;sudo ntfs-3g /分割區 /掛載點&lt;/code&gt; 或 GUI 掛載 Windows 分割區，例如：&lt;code&gt;sudo ntfs-3g /dev/sda1 /mnt/windows&lt;/code&gt;。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

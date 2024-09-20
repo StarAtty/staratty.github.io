@@ -4,7 +4,7 @@
     <title>Lists on StarAtt</title>
     <link>http://staratt.cc/lists/</link>
     <description>Recent content in Lists on StarAtt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 10 Oct 2022 23:22:23 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/lists/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>http://staratt.cc/lists/distros/</link>
       <pubDate>Mon, 10 Oct 2022 23:22:23 +0800</pubDate>
       <guid>http://staratt.cc/lists/distros/</guid>
-      <description>Here are some distros I like and recommand to start with:&#xA;Debian/Ubuntu Based KDE neon Mint Zorin OS Arch Based Manjaro Xero Linux Why not Ubuntu? Ubuntu 22.04 directs apt install to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.</description>
+      <description>&lt;p&gt;Here are some distros I like and recommand to start with:&lt;/p&gt;&#xA;&lt;h2 id=&#34;debianubuntu-based&#34;&gt;Debian/Ubuntu Based&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://neon.kde.org&#34;&gt;KDE neon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linuxmint.com&#34;&gt;Mint&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://zorinos.com/os&#34;&gt;Zorin OS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;arch-based&#34;&gt;Arch Based&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://manjaro.org&#34;&gt;Manjaro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://xerolinux.xyz&#34;&gt;Xero Linux&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-not-ubuntu&#34;&gt;Why not Ubuntu?&lt;/h2&gt;&#xA;&lt;p&gt;Ubuntu 22.04 directs &lt;code&gt;apt install&lt;/code&gt; to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FOSS List</title>
       <link>http://staratt.cc/lists/foss/</link>
       <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
       <guid>http://staratt.cc/lists/foss/</guid>
-      <description>Everything listed work on Windows, macOS and Linux.&#xA;Web Browser Vivaldi Firefox Brave General HackMD (online collaboration) LibreOffice (office suite) Marktext (Markdown editor) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) ImageGlass (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
+      <description>&lt;p&gt;Everything listed work on Windows, macOS and Linux.&lt;/p&gt;&#xA;&lt;h2 id=&#34;web-browser&#34;&gt;Web Browser&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vivaldi&lt;/li&gt;&#xA;&lt;li&gt;Firefox&lt;/li&gt;&#xA;&lt;li&gt;Brave&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;general&#34;&gt;General&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HackMD (online collaboration)&lt;/li&gt;&#xA;&lt;li&gt;LibreOffice (office suite)&lt;/li&gt;&#xA;&lt;li&gt;Marktext (Markdown editor)&lt;/li&gt;&#xA;&lt;li&gt;Syncthing (P2P synchronisation between devices)&lt;/li&gt;&#xA;&lt;li&gt;Xplorer (file explorer)&lt;/li&gt;&#xA;&lt;li&gt;ImageGlass (image viewer)&lt;/li&gt;&#xA;&lt;li&gt;VLC Media Player (media player)&lt;/li&gt;&#xA;&lt;li&gt;7-Zip (file compressor and extractor)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;communication&#34;&gt;Communication&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Element&lt;/li&gt;&#xA;&lt;li&gt;Rocket Chat&lt;/li&gt;&#xA;&lt;li&gt;Jitsi Meet&lt;/li&gt;&#xA;&lt;li&gt;Revolt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;scorewriter&#34;&gt;Scorewriter&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MuseScore&lt;/li&gt;&#xA;&lt;li&gt;Frescobaldi (Lilypond)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;daw&#34;&gt;DAW&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ardour&lt;/li&gt;&#xA;&lt;li&gt;LMMS&lt;/li&gt;&#xA;&lt;li&gt;Zrythm&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;graphic&#34;&gt;Graphic&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Krita&lt;/li&gt;&#xA;&lt;li&gt;Inkscape&lt;/li&gt;&#xA;&lt;li&gt;GIMP&lt;/li&gt;&#xA;&lt;li&gt;Darktable&lt;/li&gt;&#xA;&lt;li&gt;Blender&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shotcut&lt;/li&gt;&#xA;&lt;li&gt;Kdenlive&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OBS Studio&lt;/li&gt;&#xA;&lt;li&gt;Rustdesk&lt;/li&gt;&#xA;&lt;li&gt;Audacity&lt;/li&gt;&#xA;&lt;li&gt;KeePass&lt;/li&gt;&#xA;&lt;li&gt;Nextcloud&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

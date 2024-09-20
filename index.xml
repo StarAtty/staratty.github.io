@@ -4,7 +4,7 @@
     <title>StarAtt</title>
     <link>http://staratt.cc/</link>
     <description>Recent content on StarAtt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 19 Sep 2024 20:26:28 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/index.xml" rel="self" type="application/rss+xml" />
@@ -13,49 +13,49 @@
       <link>http://staratt.cc/posts/retro/</link>
       <pubDate>Thu, 19 Sep 2024 20:26:28 +0800</pubDate>
       <guid>http://staratt.cc/posts/retro/</guid>
-      <description>好幾年沒寫完整首管樂團的曲子。 一開始為了要寫一段在腦海裡放很久的東西先撐完了和緩的開頭，寫著寫著想起另一個夾雜複拍子的主題，就離原本暫時的標</description>
+      <description>&lt;p&gt;好幾年沒寫完整首管樂團的曲子。&lt;/p&gt;&#xA;&lt;p&gt;一開始為了要寫一段在腦海裡放很久的東西先撐完了和緩的開頭，寫著寫著想起另一個夾雜複拍子的主題，就離原本暫時的標題「3456」越來越遠了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日記</title>
       <link>http://staratt.cc/posts/%E6%97%A5%E8%A8%98/</link>
       <pubDate>Sat, 23 Mar 2024 10:49:08 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E6%97%A5%E8%A8%98/</guid>
-      <description>如果一天沒有留下任何記錄，午夜一過便如過眼雲煙，半點不著痕跡。日記使人為一天作結，整理一天的所見所得，為開始下一天準備；日記也為人的生命旅程</description>
+      <description>&lt;p&gt;如果一天沒有留下任何記錄，午夜一過便如過眼雲煙，半點不著痕跡。日記使人為一天作結，整理一天的所見所得，為開始下一天準備；日記也為人的生命旅程寫下歷史，在時間軸上為事件畫上清楚的坐標，乘載對生活的思考，讓未來的自己得以追溯過去的種種。&lt;/p&gt;</description>
     </item>
     <item>
       <title>行列輸入法</title>
       <link>http://staratt.cc/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</link>
       <pubDate>Sun, 18 Feb 2024 21:06:47 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</guid>
-      <description>我從 2021 年開始學行列輸入法。當時想學個字形輸入法，查一查發現行列輸入法有每分鐘 215.5 字的紀錄，免費、開源又有魚上君做的介紹兼練習網站，我就開始學了</description>
+      <description>&lt;p&gt;我從 2021 年開始學行列輸入法。當時想學個字形輸入法，查一查發現行列輸入法有每分鐘 215.5 字的紀錄，免費、開源又有&lt;a href=&#34;https://array30.misterfishup.com&#34;&gt;魚上君做的介紹兼練習網站&lt;/a&gt;，我就開始學了。雖說我平常打中文的頻率實在不高，但每天打字練習一個月下來也開始能寫日記，沒幾個月就完全改用行列輸入法了（記得那時候剛好在翻譯 0 A.D.）。教學網站已有，這篇文章寫的主要是我用行列輸入法約三年來的心得，以及各作業系統上目前我認為最好的行列輸入方案。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 的新 API 條款會使人們投向去中心化平台嗎？</title>
       <link>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</link>
       <pubDate>Sat, 24 Jun 2023 16:03:53 +0800</pubDate>
       <guid>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</guid>
-      <description>Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出走到 Lemmy、kbin 等基於 Fediverse 的平台。&lt;/p&gt;</description>
     </item>
     <item>
       <title>在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
       <link>http://staratt.cc/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
       <guid>http://staratt.cc/posts/access-windows-onedrive-from-linux/</guid>
-      <description>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。 （若未安裝）安裝 ntfs-3g（支援 FUSE 者後</description>
+      <description>&lt;p&gt;朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;（若未安裝）安裝 &lt;code&gt;ntfs-3g&lt;/code&gt;（支援 FUSE 者後續掛載時不須 &lt;code&gt;sudo&lt;/code&gt;）&lt;/li&gt;&#xA;&lt;li&gt;從&lt;a href=&#34;https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip&#34;&gt;這裡&lt;/a&gt;下載插件&lt;/li&gt;&#xA;&lt;li&gt;解壓縮後把相應平台的插件（如 &lt;code&gt;linux-64&lt;/code&gt; 裡的 &lt;code&gt;ntfs-plugin-9000001a.so&lt;/code&gt;）放到 &lt;code&gt;/usr/lib/ntfs-3g/&lt;/code&gt; 底下（可能需要自行建立資料夾）&lt;/li&gt;&#xA;&lt;li&gt;使用 &lt;code&gt;sudo ntfs-3g /分割區 /掛載點&lt;/code&gt; 或 GUI 掛載 Windows 分割區，例如：&lt;code&gt;sudo ntfs-3g /dev/sda1 /mnt/windows&lt;/code&gt;。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Distros to begin</title>
       <link>http://staratt.cc/lists/distros/</link>
       <pubDate>Mon, 10 Oct 2022 23:22:23 +0800</pubDate>
       <guid>http://staratt.cc/lists/distros/</guid>
-      <description>Here are some distros I like and recommand to start with:&#xA;Debian/Ubuntu Based KDE neon Mint Zorin OS Arch Based Manjaro Xero Linux Why not Ubuntu? Ubuntu 22.04 directs apt install to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.</description>
+      <description>&lt;p&gt;Here are some distros I like and recommand to start with:&lt;/p&gt;&#xA;&lt;h2 id=&#34;debianubuntu-based&#34;&gt;Debian/Ubuntu Based&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://neon.kde.org&#34;&gt;KDE neon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linuxmint.com&#34;&gt;Mint&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://zorinos.com/os&#34;&gt;Zorin OS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;arch-based&#34;&gt;Arch Based&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://manjaro.org&#34;&gt;Manjaro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://xerolinux.xyz&#34;&gt;Xero Linux&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-not-ubuntu&#34;&gt;Why not Ubuntu?&lt;/h2&gt;&#xA;&lt;p&gt;Ubuntu 22.04 directs &lt;code&gt;apt install&lt;/code&gt; to Snap by default, which is only Canonical&amp;rsquo;s will and might lead to broken or unexpected packages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FOSS List</title>
       <link>http://staratt.cc/lists/foss/</link>
       <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
       <guid>http://staratt.cc/lists/foss/</guid>
-      <description>Everything listed work on Windows, macOS and Linux.&#xA;Web Browser Vivaldi Firefox Brave General HackMD (online collaboration) LibreOffice (office suite) Marktext (Markdown editor) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) ImageGlass (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
+      <description>&lt;p&gt;Everything listed work on Windows, macOS and Linux.&lt;/p&gt;&#xA;&lt;h2 id=&#34;web-browser&#34;&gt;Web Browser&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vivaldi&lt;/li&gt;&#xA;&lt;li&gt;Firefox&lt;/li&gt;&#xA;&lt;li&gt;Brave&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;general&#34;&gt;General&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HackMD (online collaboration)&lt;/li&gt;&#xA;&lt;li&gt;LibreOffice (office suite)&lt;/li&gt;&#xA;&lt;li&gt;Marktext (Markdown editor)&lt;/li&gt;&#xA;&lt;li&gt;Syncthing (P2P synchronisation between devices)&lt;/li&gt;&#xA;&lt;li&gt;Xplorer (file explorer)&lt;/li&gt;&#xA;&lt;li&gt;ImageGlass (image viewer)&lt;/li&gt;&#xA;&lt;li&gt;VLC Media Player (media player)&lt;/li&gt;&#xA;&lt;li&gt;7-Zip (file compressor and extractor)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;communication&#34;&gt;Communication&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Element&lt;/li&gt;&#xA;&lt;li&gt;Rocket Chat&lt;/li&gt;&#xA;&lt;li&gt;Jitsi Meet&lt;/li&gt;&#xA;&lt;li&gt;Revolt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;scorewriter&#34;&gt;Scorewriter&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MuseScore&lt;/li&gt;&#xA;&lt;li&gt;Frescobaldi (Lilypond)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;daw&#34;&gt;DAW&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ardour&lt;/li&gt;&#xA;&lt;li&gt;LMMS&lt;/li&gt;&#xA;&lt;li&gt;Zrythm&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;graphic&#34;&gt;Graphic&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Krita&lt;/li&gt;&#xA;&lt;li&gt;Inkscape&lt;/li&gt;&#xA;&lt;li&gt;GIMP&lt;/li&gt;&#xA;&lt;li&gt;Darktable&lt;/li&gt;&#xA;&lt;li&gt;Blender&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shotcut&lt;/li&gt;&#xA;&lt;li&gt;Kdenlive&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OBS Studio&lt;/li&gt;&#xA;&lt;li&gt;Rustdesk&lt;/li&gt;&#xA;&lt;li&gt;Audacity&lt;/li&gt;&#xA;&lt;li&gt;KeePass&lt;/li&gt;&#xA;&lt;li&gt;Nextcloud&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>天空</title>
@@ -69,7 +69,7 @@
       <link>http://staratt.cc/about/</link>
       <pubDate>Sun, 06 Jun 2021 10:16:17 +0800</pubDate>
       <guid>http://staratt.cc/about/</guid>
-      <description>管樂團出身，彈鋼琴和吹豎笛，喜歡作曲，熱愛甘美朗。提倡自由軟體與數位人權，推廣 Linux。資深 RTS 玩家。喜歡下将棋。 Linux 從 2018 年起用 Linux，用</description>
+      <description>&lt;p&gt;管樂團出身，彈鋼琴和吹豎笛，喜歡作曲，熱愛甘美朗。提倡自由軟體與數位人權，推廣 Linux。資深 RTS 玩家。喜歡下将棋。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;&#xA;&lt;p&gt;從 2018 年起用 Linux，用過各種大小 Linux 發行版，包括 Ubuntu, elementary OS, Linux Mint, Zorin OS, Ubuntu Studio, AV Linux, Feren OS, KDE neon, Regata OS, MX Linux, Nitrux, Manjaro, Arch Linux, Archcraft, Garuda Linux, Void Linux, openSUSE Thumbleweed。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021</title>
@@ -83,28 +83,28 @@
       <link>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</link>
       <pubDate>Thu, 01 Oct 2020 20:25:54 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</guid>
-      <description>星垂平野闊 月傍九霄多 塵匣元開鏡 有淚如金波</description>
+      <description>&lt;p&gt;星垂平野闊&lt;/p&gt;&#xA;&lt;p&gt;月傍九霄多&lt;/p&gt;&#xA;&lt;p&gt;塵匣元開鏡&lt;/p&gt;&#xA;&lt;p&gt;有淚如金波&lt;/p&gt;</description>
     </item>
     <item>
       <title>居</title>
       <link>http://staratt.cc/posts/%E5%B1%85/</link>
       <pubDate>Wed, 30 Sep 2020 20:39:51 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E5%B1%85/</guid>
-      <description>滅燭憐光滿 返影入深林 人生不相見 山月照彈琴</description>
+      <description>&lt;p&gt;滅燭憐光滿&lt;/p&gt;&#xA;&lt;p&gt;返影入深林&lt;/p&gt;&#xA;&lt;p&gt;人生不相見&lt;/p&gt;&#xA;&lt;p&gt;山月照彈琴&lt;/p&gt;</description>
     </item>
     <item>
       <title>時</title>
       <link>http://staratt.cc/posts/%E6%99%82/</link>
       <pubDate>Tue, 29 Sep 2020 20:29:15 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E6%99%82/</guid>
-      <description>柳邊人歇待船歸 鄉音無改鬢毛催 勸君莫惜金縷衣 古來征戰幾人回</description>
+      <description>&lt;p&gt;柳邊人歇待船歸&lt;/p&gt;&#xA;&lt;p&gt;鄉音無改鬢毛催&lt;/p&gt;&#xA;&lt;p&gt;勸君莫惜金縷衣&lt;/p&gt;&#xA;&lt;p&gt;古來征戰幾人回&lt;/p&gt;</description>
     </item>
     <item>
       <title>三十三</title>
       <link>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</link>
       <pubDate>Tue, 14 Jul 2020 19:56:12 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
-      <description>早歲那知世事艱 自謂深根百世安 如今悔恨將何益 蠟炬成灰淚始乾</description>
+      <description>&lt;p&gt;早歲那知世事艱&lt;/p&gt;&#xA;&lt;p&gt;自謂深根百世安&lt;/p&gt;&#xA;&lt;p&gt;如今悔恨將何益&lt;/p&gt;&#xA;&lt;p&gt;蠟炬成灰淚始乾&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
