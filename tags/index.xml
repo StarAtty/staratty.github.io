@@ -4,10 +4,17 @@
     <title>Tags on StarAtt</title>
     <link>http://staratt.cc/tags/</link>
     <description>Recent content in Tags on StarAtt</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 19 Sep 2024 20:26:28 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 12:54:31 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自由軟體</title>
+      <link>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
+      <pubDate>Wed, 02 Oct 2024 12:54:31 +0800</pubDate>
+      <guid>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</guid>
+      <description></description>
+    </item>
     <item>
       <title>作曲</title>
       <link>http://staratt.cc/tags/%E4%BD%9C%E6%9B%B2/</link>

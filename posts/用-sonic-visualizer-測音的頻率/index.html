@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico">
+  <script defer src="https://analytics.us.umami.is/script.js" data-website-id="e76c3f79-2a50-4978-84e0-e750cc419113"></script>
+  
+  
+  <title>StarAtt ｜ 用 Sonic Visualizer 測音（的頻率）</title>
+</head>
+<body><nav>
+  <a href="/">StarAtt<span class="hidden">字</span></a>
+  <div class="right">
+    <a href="/about"> 簡介</a>
+    <a href="/lists"> 清單</a>
+    <a href="/tags"> 標籤</a>
+    <a href="/en"> En</a>
+    
+  </div>
+</nav>
+
+<div id="content">
+  
+  <center>
+    <h1>
+      用 Sonic Visualizer 測音（的頻率）
+    </h1>
+    <h4>
+      <time>
+        2024/10/02
+      </time>
+      <h5>
+        
+        
+        <a href="http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94">自由軟體</a>
+        
+      </h5>
+</ul>
+
+    </h4>
+  </center>
+  
+  <p>Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的某一段有多大聲，頻譜可以看到聲音分佈在哪些頻率，頻譜圖可以看到一段時間內的頻率分佈。</p>
+<p><img src="https://blog.staratt.cc/content/images/2024/08/--.png" alt=""></p>
+<h6 id="圖中橘黑色的是波形黃黃綠綠的是頻譜圖">圖中橘黑色的是波形，黃黃綠綠的是頻譜圖。</h6>
+<p>把游標移到 Spectrogram 的某個區塊，右上角就會顯示那個區塊的頻段：</p>
+<p><img src="https://blog.staratt.cc/content/images/2024/08/---2.png" alt=""></p>
+<h6 id="spectrogram-的一角bin-frequency-顯示的是-fft-出來的一段頻率區間">Spectrogram 的一角，Bin Frequency 顯示的是 FFT 出來的一段頻率區間</h6>
+<p>但這不是那個音的頻率，只是靠近游標的一個區間而已。</p>
+<p>Peak Frequency Spectrogram 則會顯示所有明顯的泛音（含基音），把游標移到有黃色線的地方就能看到精確許多的頻率（段）。</p>
+<p><img src="https://blog.staratt.cc/content/images/2024/08/---3.png" alt=""></p>
+<h6 id="peak-frequency-spectrogram-會顯示聲音中明顯的頻率區間peak-frequency">Peak Frequency Spectrogram 會顯示聲音中明顯的頻率區間（Peak Frequency）</h6>
+<p>怎麼知道這樣測出來的音準不準呢？用耳朵檢查。比如說用 <a href="https://www.szynalski.com/tone-generator/?ref=blog.staratt.cc">Online Tone Generator</a> 播頻率聽聽看和原本的音高是不是一樣，以免記錄到別的泛音（畢竟很多樂器的某些泛音會比基頻還大聲）。</p>
+
+  
+  <iframe id="like-button"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.cc%2fposts%2f%25E7%2594%25A8-sonic-visualizer-%25E6%25B8%25AC%25E9%259F%25B3%25E7%259A%2584%25E9%25A0%25BB%25E7%258E%2587%2f"
+    frameborder=0></iframe>
+  
+</div>
+
+<a href="http://staratt.cc/posts/retro/">← Retro</a>
+
+
+<footer>
+    Email: staratt@pm.me
+    <span class="right">過去去，未來來。</span>
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自由軟體 on StarAtt</title>
+    <link>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
+    <description>Recent content in 自由軟體 on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 02 Oct 2024 12:54:31 +0800</lastBuildDate>
+    <atom:link href="http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 Sonic Visualizer 測音（的頻率）</title>
+      <link>http://staratt.cc/posts/%E7%94%A8-sonic-visualizer-%E6%B8%AC%E9%9F%B3%E7%9A%84%E9%A0%BB%E7%8E%87/</link>
+      <pubDate>Wed, 02 Oct 2024 12:54:31 +0800</pubDate>
+      <guid>http://staratt.cc/posts/%E7%94%A8-sonic-visualizer-%E6%B8%AC%E9%9F%B3%E7%9A%84%E9%A0%BB%E7%8E%87/</guid>
+      <description>Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的</description>
+    </item>
+  </channel>
+</rss>
