@@ -1,6 +1,6 @@
 content:
   - name: posts
     label: Posts
-    path: src/_posts
+    path: posts
     type: collection
     fields: [ title, published, "tags[0]", author.name]
