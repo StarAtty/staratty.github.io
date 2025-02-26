@@ -1,6 +1,11 @@
+media: img
 content:
   - name: posts
     label: Posts
     path: posts
     type: collection
-    fields: [ title, published, "tags[0]", author.name]
+    fields:
+      - { name: published, label: Published, type: boolean }
+      - { name: date, label: Date, type: date }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: body, label: Body, type: rich-text }
