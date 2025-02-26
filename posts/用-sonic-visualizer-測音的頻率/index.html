@@ -46,14 +46,14 @@
   </center>
   
   <p>Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的某一段有多大聲，頻譜可以看到聲音分佈在哪些頻率，頻譜圖可以看到一段時間內的頻率分佈。</p>
-<p><img src="https://blog.staratt.cc/content/images/2024/08/--.png" alt=""></p>
+<p><img src="/img/waveform_spectrogram.png" alt="waveform &amp; spectrogram"></p>
 <h6 id="圖中橘黑色的是波形黃黃綠綠的是頻譜圖">圖中橘黑色的是波形，黃黃綠綠的是頻譜圖。</h6>
 <p>把游標移到 Spectrogram 的某個區塊，右上角就會顯示那個區塊的頻段：</p>
-<p><img src="https://blog.staratt.cc/content/images/2024/08/---2.png" alt=""></p>
+<p><img src="/img/bin_frequency.png" alt="bin frequency"></p>
 <h6 id="spectrogram-的一角bin-frequency-顯示的是-fft-出來的一段頻率區間">Spectrogram 的一角，Bin Frequency 顯示的是 FFT 出來的一段頻率區間</h6>
 <p>但這不是那個音的頻率，只是靠近游標的一個區間而已。</p>
 <p>Peak Frequency Spectrogram 則會顯示所有明顯的泛音（含基音），把游標移到有黃色線的地方就能看到精確許多的頻率（段）。</p>
-<p><img src="https://blog.staratt.cc/content/images/2024/08/---3.png" alt=""></p>
+<p><img src="/img/peak_frequency.png" alt="peak frequency"></p>
 <h6 id="peak-frequency-spectrogram-會顯示聲音中明顯的頻率區間peak-frequency">Peak Frequency Spectrogram 會顯示聲音中明顯的頻率區間（Peak Frequency）</h6>
 <p>怎麼知道這樣測出來的音準不準呢？用耳朵檢查。比如說用 <a href="https://www.szynalski.com/tone-generator/?ref=blog.staratt.cc">Online Tone Generator</a> 播頻率聽聽看和原本的音高是不是一樣，以免記錄到別的泛音（畢竟很多樂器的某些泛音會比基頻還大聲）。</p>
 
