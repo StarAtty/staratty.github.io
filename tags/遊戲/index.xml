@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>遊戲 on StarAtt</title>
+    <link>http://staratt.cc/tags/%E9%81%8A%E6%88%B2/</link>
+    <description>Recent content in 遊戲 on StarAtt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 01 Jun 2023 03:08:56 +0800</lastBuildDate>
+    <atom:link href="http://staratt.cc/tags/%E9%81%8A%E6%88%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pixel TD</title>
+      <link>http://staratt.cc/posts/pixel-td/</link>
+      <pubDate>Thu, 01 Jun 2023 03:08:56 +0800</pubDate>
+      <guid>http://staratt.cc/posts/pixel-td/</guid>
+      <description>用微軟的 Makecode Arcade 做了一個像素化的塔防遊戲。 Makecode Arcade</description>
+    </item>
+  </channel>
+</rss>
