@@ -6,8 +6,15 @@
     <description>Recent content in Posts on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 25 Apr 2025 20:47:42 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 13:09:15 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安裝 CachyOS</title>
+      <link>http://staratt.cc/posts/cachyos-installation/</link>
+      <pubDate>Fri, 27 Jun 2025 13:09:15 +0800</pubDate>
+      <guid>http://staratt.cc/posts/cachyos-installation/</guid>
+      <description>CachyOS 安裝記錄（Setup guide） 2025/06/27 安裝於 AMD MOREFINE M600。 準備 到 CachyOS 的網站下載 iso（Desktop Edition）。 準備至少 4GB 的隨身碟（目前 iso</description>
+    </item>
     <item>
       <title>Bali Time</title>
       <link>http://staratt.cc/posts/bali-time/</link>
