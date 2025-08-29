@@ -2,6 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://staratt.cc/posts/</loc>
+    <lastmod>2025-08-29T10:22:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/posts/"
+                />
+  </url><url>
+    <loc>http://staratt.cc/</loc>
+    <lastmod>2025-08-29T10:22:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/"
+                />
+  </url><url>
+    <loc>http://staratt.cc/posts/%E8%A9%B2%E5%81%9A%E4%BB%80%E9%BA%BC/</loc>
+    <lastmod>2025-08-29T10:22:41+08:00</lastmod>
+  </url><url>
     <loc>http://staratt.cc/tags/cachyos/</loc>
     <lastmod>2025-06-27T13:09:15+08:00</lastmod>
   </url><url>
@@ -16,32 +45,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://staratt.cc/tags/linux/"
-                />
-  </url><url>
-    <loc>http://staratt.cc/posts/</loc>
-    <lastmod>2025-06-27T13:09:15+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.cc/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.cc/posts/"
-                />
-  </url><url>
-    <loc>http://staratt.cc/</loc>
-    <lastmod>2025-06-27T13:09:15+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.cc/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.cc/"
                 />
   </url><url>
     <loc>http://staratt.cc/tags/</loc>
