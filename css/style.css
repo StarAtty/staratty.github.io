@@ -1,116 +1,116 @@
 :root {
-  --main-bg-color: #253033;
-  --main-color: #eaea5f;
+    --main-bg-color: #253033;
+    --main-color: #eaea5f;
 }
 
 nav {
-  background-color: rgba(37, 48, 51, 0.9);
-  color: var(--main-color);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-  font-size: 1.1rem;
-  height: 2.5rem;
-  padding: 1rem 0 0.2rem;
-  width: 100%;
-  position: sticky;
-  top: 0;
+    background-color: rgba(37, 48, 51, 0.9);
+    color: var(--main-color);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    font-size: 1.1rem;
+    height: 2.5rem;
+    padding: 1rem 0 0.2rem;
+    width: 100%;
+    position: sticky;
+    top: 0;
 }
 
 nav a {
-  padding: .5rem 0;
+    padding: 0.5rem 0;
 }
 
 nav > a[href="/"] {
-  float: left;
-  padding: 0;
+    float: left;
+    padding: 0;
 }
 
 .hidden {
-  visibility: hidden;
+    visibility: hidden;
 }
 
 nav .right {
-  margin: 0 0.5rem 0 0;
+    margin: 0 0.5rem 0 0;
 }
 
 footer {
-  background-color: var(--main-bg-color);
-  border-top: var(--main-color) 1px solid;
-  margin-top: 0.65rem;
-  padding: 0.5rem 0;
+    background-color: var(--main-bg-color);
+    border-top: var(--main-color) 1px solid;
+    margin-top: 0.65rem;
+    padding: 0.5rem 0;
 }
 
 footer .right {
-  margin: 0;
+    margin: 0;
 }
 
 nav .right a {
-  margin: 0 0 0 1.1rem;
+    margin: 0 0 0 1.1rem;
 }
 
 time {
-  display: inline-block;
-  width: 5rem;
+    display: inline-block;
+    width: 5rem;
 }
 
 h1 {
-  font-size: 1.75rem;
-  margin-bottom: 0;
+    font-size: 1.75rem;
+    margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.4rem;
-  margin: 0 0 1rem;
+    font-size: 1.4rem;
+    margin: 0 0 1rem;
 }
 
 h3 {
-  font-size: 1.2rem;
+    font-size: 1.2rem;
 }
 
 h4 {
-  font-size: 1rem;
-  margin: 0.4rem;
+    font-size: 1rem;
+    margin: 0.4rem;
 }
 
 h5 {
-  font-size: 0.8rem;
-  margin: 0.3rem 0;
+    font-size: 0.8rem;
+    margin: 0.3rem 0;
 }
 
 h6 {
-  text-align: center;
-  color: #aaa;
-  font-size: 0.9rem;
-  margin-block-start: 0;
+    text-align: center;
+    color: #aaa;
+    font-size: 0.9rem;
+    margin-block-start: 0;
 }
 
 code {
-  background-color: #443;
-  padding: 0 0.15rem;
+    background-color: #443;
+    padding: 0 0.15rem;
 }
 
 li {
-  margin: 0.3rem 0;
+    margin: 0.3rem 0;
 }
 
 body {
-  background-color: var(--main-bg-color);
-  color: #dadada;
-  line-height: 1.3;
-  width: 60%;
-  margin: auto;
-  font-family: Roboto, sans-serif;
-  font-size: 1.1rem;
+    background-color: var(--main-bg-color);
+    color: #dadada;
+    line-height: 1.3;
+    width: 60%;
+    margin: auto;
+    font-family: Roboto, "Noto Sans TC", sans-serif;
+    font-size: 1.1rem;
 }
 
 a {
-  color: var(--main-color);
-  text-decoration: none;
+    color: var(--main-color);
+    text-decoration: none;
 }
 
 a:hover {
-  color: #16e6a1;
-  transition: color 0.25s;
+    color: #16e6a1;
+    transition: color 0.25s;
 }
 
 p {
@@ -122,15 +122,15 @@ article {
 }
 
 img {
-  display: block;
-  margin: auto;
-  margin-top: 1.8rem;
-  max-width: 95%;
+    display: block;
+    margin: auto;
+    margin-top: 1.8rem;
+    max-width: 95%;
 }
 
 blockquote {
-  font-size: 1.05rem;
-  color: #aaa;
+    font-size: 1.05rem;
+    color: #aaa;
 }
 
 .right {
@@ -138,7 +138,7 @@ blockquote {
 }
 
 @media only screen and (max-width: 1200px) {
-  body {
-    width: 90%;
-  }
+    body {
+        width: 90%;
+    }
 }
