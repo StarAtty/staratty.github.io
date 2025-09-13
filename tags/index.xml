@@ -6,8 +6,22 @@
     <description>Recent content in Tags on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 27 Jun 2025 13:09:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 22:54:07 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office</title>
+      <link>http://staratt.cc/tags/office/</link>
+      <pubDate>Fri, 12 Sep 2025 22:54:07 +0800</pubDate>
+      <guid>http://staratt.cc/tags/office/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自由軟體</title>
+      <link>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
+      <pubDate>Fri, 12 Sep 2025 22:54:07 +0800</pubDate>
+      <guid>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CachyOS</title>
       <link>http://staratt.cc/tags/cachyos/</link>
@@ -41,13 +55,6 @@
       <link>http://staratt.cc/tags/%E7%AE%A1%E6%A8%82%E5%9C%98/</link>
       <pubDate>Thu, 19 Dec 2024 15:14:58 +0800</pubDate>
       <guid>http://staratt.cc/tags/%E7%AE%A1%E6%A8%82%E5%9C%98/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>自由軟體</title>
-      <link>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
-      <pubDate>Fri, 09 Aug 2024 12:54:31 +0800</pubDate>
-      <guid>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</guid>
       <description></description>
     </item>
     <item>
