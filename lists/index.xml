@@ -20,7 +20,7 @@
       <link>http://staratt.cc/lists/foss/</link>
       <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
       <guid>http://staratt.cc/lists/foss/</guid>
-      <description>Everything listed work on Windows, macOS and Linux.&#xA;Web Browser Vivaldi Firefox Brave General HackMD (online collaboration) LibreOffice (office suite) Marktext (Markdown editor) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) ImageGlass (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Rocket Chat Jitsi Meet Revolt Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour LMMS Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Shotcut Kdenlive Misc OBS Studio Rustdesk Audacity KeePass Nextcloud </description>
+      <description>Everything listed works on Windows, macOS and Linux.&#xA;Web Browser Floorp Brave General HackMD (online collaboration) LibreOffice (office suite) Marktext (Markdown editor) Syncthing (P2P synchronisation between devices) Xplorer (file explorer) ImageGlass (image viewer) VLC Media Player (media player) 7-Zip (file compressor and extractor) Communication Element Jitsi Meet Scorewriter MuseScore Frescobaldi (Lilypond) DAW Ardour Zrythm Graphic Krita Inkscape GIMP Darktable Blender Video Kdenlive PKMs AFFiNE Anytype Misc OBS Studio (screen recording, streaming) Rustdesk (remote desktop) Audacity (basic audio editing) Bitwarden (password manager) Nextcloud (NAS) </description>
     </item>
   </channel>
 </rss>
