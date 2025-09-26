@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>集句 on StarAtt</title>
+    <link>http://localhost:1313/zh-tw/tags/%E9%9B%86%E5%8F%A5/</link>
+    <description>Recent content in 集句 on StarAtt</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 01 Oct 2020 20:25:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E9%9B%86%E5%8F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中秋</title>
+      <link>http://localhost:1313/zh-tw/posts/%E4%B8%AD%E7%A7%8B/</link>
+      <pubDate>Thu, 01 Oct 2020 20:25:54 +0800</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/%E4%B8%AD%E7%A7%8B/</guid>
+      <description>&lt;p&gt;星垂平野闊&lt;/p&gt;&#xA;&lt;p&gt;月傍九霄多&lt;/p&gt;&#xA;&lt;p&gt;塵匣元開鏡&lt;/p&gt;&#xA;&lt;p&gt;有淚如金波&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>居</title>
+      <link>http://localhost:1313/zh-tw/posts/%E5%B1%85/</link>
+      <pubDate>Wed, 30 Sep 2020 20:39:51 +0800</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/%E5%B1%85/</guid>
+      <description>&lt;p&gt;滅燭憐光滿&lt;/p&gt;&#xA;&lt;p&gt;返影入深林&lt;/p&gt;&#xA;&lt;p&gt;人生不相見&lt;/p&gt;&#xA;&lt;p&gt;山月照彈琴&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>時</title>
+      <link>http://localhost:1313/zh-tw/posts/%E6%99%82/</link>
+      <pubDate>Tue, 29 Sep 2020 20:29:15 +0800</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/%E6%99%82/</guid>
+      <description>&lt;p&gt;柳邊人歇待船歸&lt;/p&gt;&#xA;&lt;p&gt;鄉音無改鬢毛催&lt;/p&gt;&#xA;&lt;p&gt;勸君莫惜金縷衣&lt;/p&gt;&#xA;&lt;p&gt;古來征戰幾人回&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>三十三</title>
+      <link>http://localhost:1313/zh-tw/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</link>
+      <pubDate>Tue, 14 Jul 2020 19:56:12 +0800</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
+      <description>&lt;p&gt;早歲那知世事艱&lt;/p&gt;&#xA;&lt;p&gt;自謂深根百世安&lt;/p&gt;&#xA;&lt;p&gt;如今悔恨將何益&lt;/p&gt;&#xA;&lt;p&gt;蠟炬成灰淚始乾&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

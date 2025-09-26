@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行列輸入法 on StarAtt</title>
+    <link>http://localhost:1313/zh-tw/tags/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</link>
+    <description>Recent content in 行列輸入法 on StarAtt</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 18 Feb 2024 21:06:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>行列輸入法</title>
+      <link>http://localhost:1313/zh-tw/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</link>
+      <pubDate>Sun, 18 Feb 2024 21:06:47 +0800</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</guid>
+      <description>&lt;p&gt;我從 2021 年開始學行列輸入法。當時想學個字形輸入法，查一查發現行列輸入法有每分鐘 215.5 字的紀錄，免費、開源又有&lt;a href=&#34;https://array30.misterfishup.com&#34;&gt;魚上君做的介紹兼練習網站&lt;/a&gt;，我就開始學了。雖說我平常打中文的頻率實在不高，但每天打字練習一個月下來也開始能寫日記，沒幾個月就完全改用行列輸入法了（記得那時候剛好在翻譯 0 A.D.）。教學網站已有，這篇文章寫的主要是我用行列輸入法約三年來的心得，以及各作業系統上目前我認為最好的行列輸入方案。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

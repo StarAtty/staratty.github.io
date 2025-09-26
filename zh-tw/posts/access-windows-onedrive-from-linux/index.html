@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico">
+  <script defer src="https://analytics.us.umami.is/script.js" data-website-id="e76c3f79-2a50-4978-84e0-e750cc419113"></script>
+  
+  
+  <title>StarAtt ｜ 在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
+</head>
+<body><nav>
+  <a href="/">StarAtt<span class="hidden">字</span></a>
+  <div class="right">
+    <a href="/about"> 簡介</a>
+    <a href="https://video.staratt.cc/"> 作品</a>
+    <a href="/lists"> 清單</a>
+    <a href="/tags"> 標籤</a>
+    
+  </div>
+</nav>
+
+<div id="content">
+  
+  <center>
+    <h1>
+      在 Linux 存取 Windows 分割區的 OneDrive 資料夾
+    </h1>
+    <h4>
+      <time>
+        2023/02/13
+      </time>
+      <h5>
+        
+        
+        <a href="http://localhost:1313/tags/linux">Linux</a>
+        
+      </h5>
+</ul>
+
+    </h4>
+  </center>
+  
+  <p>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。</p>
+<ol>
+<li>（若未安裝）安裝 <code>ntfs-3g</code>（支援 FUSE 者後續掛載時不須 <code>sudo</code>）</li>
+<li>從<a href="https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip">這裡</a>下載插件</li>
+<li>解壓縮後把相應平台的插件（如 <code>linux-64</code> 裡的 <code>ntfs-plugin-9000001a.so</code>）放到 <code>/usr/lib/ntfs-3g/</code> 底下（可能需要自行建立資料夾）</li>
+<li>使用 <code>sudo ntfs-3g /分割區 /掛載點</code> 或 GUI 掛載 Windows 分割區，例如：<code>sudo ntfs-3g /dev/sda1 /mnt/windows</code>。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區</li>
+</ol>
+<p>結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。</p>
+<h3 id="資料來源">資料來源</h3>
+<ul>
+<li><a href="https://bugs.launchpad.net/ubuntu/&#43;source/ntfs-3g/&#43;bug/1728354">Bug #1728354 “ntfs: unsupported reparse point” : Bugs : ntfs-3g package : Ubuntu</a></li>
+<li><a href="https://aur.archlinux.org/packages/ntfs-3g-onedrive-bin">AUR (en) - ntfs-3g-onedrive-bin</a></li>
+</ul>
+
+  
+  <iframe id="like-button"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2flocalhost%3a1313%2fzh-tw%2fposts%2faccess-windows-onedrive-from-linux%2f"
+    frameborder=0></iframe>
+  
+  <script src="https://giscus.app/client.js"
+          data-repo="StarAtty/staratty.github.io"
+          data-repo-id="MDEwOlJlcG9zaXRvcnkzNzQxNDYzMjQ="
+          data-category="Announcements"
+          data-category-id="DIC_kwDOFk0FFM4CszN3"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="preferred_color_scheme"
+          data-lang="zh-TW"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
+
+<a href="http://localhost:1313/zh-tw/posts/%E5%A4%A9%E7%A9%BA/">← 天空</a>
+
+
+<a class="right" href="http://localhost:1313/zh-tw/posts/pixel-td/">Pixel TD →</a>
+
+<footer>
+    Email: staratt@pm.me
+    <span class="right">過去去，未來來。</span>
+</footer>
+</body>
+
+</html>

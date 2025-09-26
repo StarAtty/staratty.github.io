@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>甘美朗 on StarAtt</title>
+    <link>http://localhost:1313/zh-tw/tags/%E7%94%98%E7%BE%8E%E6%9C%97/</link>
+    <description>Recent content in 甘美朗 on StarAtt</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 25 Apr 2025 20:47:42 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/%E7%94%98%E7%BE%8E%E6%9C%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bali Time</title>
+      <link>http://localhost:1313/zh-tw/posts/bali-time/</link>
+      <pubDate>Fri, 25 Apr 2025 20:47:42 +0800</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/bali-time/</guid>
+      <description>&lt;p&gt;到了畢製的季節，適合放鬆。來聽（看）《Bali Time》，體驗峇里島的心情。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL_a0BqgPWN0rtkn5-0d5iwJ81EUrg2qZy&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://video.staratt.cc/w/p/c9YcQprWBJRpdWjRhDJrYh&#34;&gt;Peertube&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/staratt/sets/bali-time&#34;&gt;Soundcloud&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

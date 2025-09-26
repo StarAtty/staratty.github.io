@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico">
+  <script defer src="https://analytics.us.umami.is/script.js" data-website-id="e76c3f79-2a50-4978-84e0-e750cc419113"></script>
+  
+  
+  <title>StarAtt ｜ 安裝 CachyOS</title>
+</head>
+<body><nav>
+  <a href="/">StarAtt<span class="hidden">字</span></a>
+  <div class="right">
+    <a href="/about"> 簡介</a>
+    <a href="https://video.staratt.cc/"> 作品</a>
+    <a href="/lists"> 清單</a>
+    <a href="/tags"> 標籤</a>
+    
+  </div>
+</nav>
+
+<div id="content">
+  
+  <center>
+    <h1>
+      安裝 CachyOS
+    </h1>
+    <h4>
+      <time>
+        2025/06/27
+      </time>
+      <h5>
+        
+        
+        <a href="http://localhost:1313/tags/linux">Linux</a>
+        
+        <a href="http://localhost:1313/tags/cachyos">CachyOS</a>
+        
+      </h5>
+</ul>
+
+    </h4>
+  </center>
+  
+  <h1 id="cachyos-安裝記錄setup-guide">CachyOS 安裝記錄（Setup guide）</h1>
+<p><img src="/img/CachyOS.png" alt="CachyOS"></p>
+<h2 id="準備">準備</h2>
+<p>到 <a href="https://cachyos.org/">CachyOS</a> 的網站下載 iso（Desktop Edition）。
+準備至少 4GB 的隨身碟（目前 iso 檔約 2.8 GB）當安裝碟。因為 CachyOS 不支援 <a href="https://www.ventoy.net/en/index.html">Ventoy</a>，所以得用傳統方法如 <code>dd</code> 或 <a href="https://rufus.ie/zh_TW/">Rufus</a>、<a href="https://etcher.balena.io/">balenaEtcher</a> 等工具做安裝碟。</p>
+<h2 id="安裝">安裝</h2>
+<p>從開機碟啟動後會直接進入 KDE 的 Live 環境。如果使用 WIFI 先點右下角的工作列連上網路。從自動開啟的 CachyOS Hello 可以啟動安裝程式，啟動時會詢問要使用哪個開機引導程式（如 GRUB、systemd-boot）。安裝程式是 <a href="https://calamares.io/">Calamares</a>，可以選擇要裝的桌面環境等。</p>
+<h2 id="安裝後設定">安裝後設定</h2>
+<p>有兩件事要做：裝自己需要的東西，以及完善中文化體驗。</p>
+<h3 id="安裝軟體">安裝軟體</h3>
+<p>CachyOS 用自己維護的 Repo。KDE 裝好後附了 CachyOS Package Installer 和 Octopi 兩種圖形化工具，文字介面則附了 paru 方便從 AUR 裝額外的套件。</p>
+<h3 id="完善中文化">完善中文化</h3>
+<p>裝系統時如果語系選繁體中文就會裝好字體，但還得自己裝輸入法和作完字體設定。</p>
+<h3 id="中文輸入法">中文輸入法</h3>
+<p>一般裝 <code>fcitx5-im</code> 和 <code>fcitx5-chewing</code> 即可，然後到系統設定→鍵盤→虛擬鍵盤選「Fcitx 5 Wayland 啟動器」，再到輸入法按「新增輸入法」就會看到新酷音，點擊「新增」後就可以打中文了。</p>
+<p>除非……不行？Wayland 跟 Fcitx5 不太合。把 <code>~/.gtkrc-2.0``~/.config/gtk-3.0/settings.ini</code> 和 <code>~/.config/gtk-4.0/settings.ini</code> 在<code>[Settings]</code> 底下加上<code>gtk-im-module=&quot;fcitx&quot;</code>，大概就能在這些 GTK 應用程式裡打中文了。詳情見  <a href="https://fcitx-im.org/wiki/Using_Fcitx_5_on_Wayland">Wiki</a>。</p>
+<h3 id="中文字型">中文字型</h3>
+<p>在系統設定→字型裡按「調整所有字型」，把「字型」打勾選 Noto Sans CJK TC，字型樣式選 Medium，系統程式裡的字看起來就會好很多。</p>
+<p>但其他地方呢？瀏覽器、終端機（如果有中文）、登入畫面的中文字都沒變。</p>
+<h4 id="應用程式使用的字型">應用程式使用的字型</h4>
+<p>編輯 <code>~/.config/fontconfig/fonts.conf</code>，在 <code>&lt;fontconfig&gt;</code> 和 <code>&lt;/fontconfig&gt;</code> 之間加上以下設定：</p>
+<pre><code>&lt;match target=&quot;pattern&quot;&gt;
+  &lt;test name=&quot;family&quot;&gt;
+    &lt;string&gt;system-ui&lt;/string&gt;
+  &lt;/test&gt;
+  &lt;edit name=&quot;family&quot; mode=&quot;prepend&quot; binding=&quot;strong&quot;&gt;
+    &lt;string&gt;sans-serif&lt;/string&gt;
+  &lt;/edit&gt;
+&lt;/match&gt;
+
+&lt;match target=&quot;pattern&quot;&gt;
+  &lt;test name=&quot;family&quot;&gt;
+    &lt;string&gt;sans-serif&lt;/string&gt;
+  &lt;/test&gt;
+  &lt;edit name=&quot;family&quot; mode=&quot;prepend&quot; binding=&quot;strong&quot;&gt;
+    &lt;string&gt;Noto Sans&lt;/string&gt;
+    &lt;string&gt;Noto Sans CJK TC&lt;/string&gt;
+    &lt;string&gt;Noto Color Emoji&lt;/string&gt;
+  &lt;/edit&gt;
+&lt;/match&gt;
+
+&lt;match target=&quot;pattern&quot;&gt;
+  &lt;test name=&quot;family&quot;&gt;
+    &lt;string&gt;serif&lt;/string&gt;
+  &lt;/test&gt;
+  &lt;edit name=&quot;family&quot; mode=&quot;prepend&quot; binding=&quot;strong&quot;&gt;
+    &lt;string&gt;Noto Serif&lt;/string&gt;
+    &lt;string&gt;Noto Serif CJK TC&lt;/string&gt;
+    &lt;string&gt;Noto Color Emoji&lt;/string&gt;
+  &lt;/edit&gt;
+&lt;/match&gt;
+
+&lt;match target=&quot;pattern&quot;&gt;
+  &lt;test name=&quot;family&quot;&gt;
+    &lt;string&gt;monospace&lt;/string&gt;
+  &lt;/test&gt;
+  &lt;edit name=&quot;family&quot; mode=&quot;prepend&quot; binding=&quot;strong&quot;&gt;
+    &lt;string&gt;Noto Sans Mono&lt;/string&gt;
+    &lt;string&gt;Noto Sans Mono CJK TC&lt;/string&gt;
+    &lt;string&gt;Noto Color Emoji&lt;/string&gt;
+  &lt;/edit&gt;
+&lt;/match&gt;
+</code></pre>
+<p>然後 <code>fc-cache -fv</code> 更新快取重開程式就會看到不同。</p>
+<h4 id="登入畫面">登入畫面</h4>
+<p>編輯 <code>/etc/sddm.conf</code>，加上一行 <code>Font=Noto Sans CJK TC</code> 就完成了。</p>
+<h3 id="參考資訊">參考資訊</h3>
+<ul>
+<li><a href="https://fcitx-im.org/wiki/Using_Fcitx_5_on_Wayland">https://fcitx-im.org/wiki/Using_Fcitx_5_on_Wayland</a></li>
+<li><a href="https://ivonblog.com/posts/linux-fontconfig/">https://ivonblog.com/posts/linux-fontconfig/</a></li>
+<li><a href="https://forum.manjaro.org/t/how-to-change-the-font-of-the-sddm-login-screen/99974/2">https://forum.manjaro.org/t/how-to-change-the-font-of-the-sddm-login-screen/99974/2</a></li>
+</ul>
+
+  
+  <iframe id="like-button"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2flocalhost%3a1313%2fzh-tw%2fposts%2fcachyos-installation%2f"
+    frameborder=0></iframe>
+  
+  <script src="https://giscus.app/client.js"
+          data-repo="StarAtty/staratty.github.io"
+          data-repo-id="MDEwOlJlcG9zaXRvcnkzNzQxNDYzMjQ="
+          data-category="Announcements"
+          data-category-id="DIC_kwDOFk0FFM4CszN3"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="preferred_color_scheme"
+          data-lang="zh-TW"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
+
+<a href="http://localhost:1313/zh-tw/posts/bali-time/">← Bali Time</a>
+
+
+<a class="right" href="http://localhost:1313/zh-tw/posts/%E8%A9%B2%E5%81%9A%E4%BB%80%E9%BA%BC/">該做什麼？ →</a>
+
+<footer>
+    Email: staratt@pm.me
+    <span class="right">過去去，未來來。</span>
+</footer>
+</body>
+
+</html>
