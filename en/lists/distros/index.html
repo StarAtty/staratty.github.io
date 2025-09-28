@@ -11,7 +11,7 @@
   <script defer src="https://analytics.us.umami.is/script.js" data-website-id="e76c3f79-2a50-4978-84e0-e750cc419113"></script>
   
   
-  <title>StarAtt ｜ How to access Windows&#39; OneDrive folder from Linux</title>
+  <title>StarAtt ｜ Distros to begin</title>
 </head>
 <body><nav>
   
@@ -32,40 +32,33 @@
   
   <center>
     <h1>
-      How to access Windows&#39; OneDrive folder from Linux
+      Distros to begin
     </h1>
     <h4>
       <time>
-        2023/02/13
+        2022/10/10
       </time>
       <h5>
         
-        
-        <a href="http://staratt.cc/tags/linux">Linux</a>
-        
-      </h5>
-</ul>
-
     </h4>
   </center>
   
-  <p>My friend had some files in the OneDrive folder on Windows&rsquo; partition, wondering how to access them directly from Linux (because of the <code>unsupported reparse point</code> error). Hence, this article was born.</p>
-<ol>
-<li>Install <code>ntfs-3g</code> (with FUSE support so you can mount drives without <code>sudo</code>).</li>
-<li>Download the plugin from <a href="https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip">Web Archive</a>.</li>
-<li>Extract the zip and place the plugin (<code>ntfs-plugin-9000001a.so</code> in <code>linux-64</code> or other platforms) under <code>/usr/lib/ntfs-3g/</code>. You might need to create the folder yourself.</li>
-<li>Mount the Windows partition with GUI or <code>ntfs-3g /NTFS_partition /mount/point</code>, e.g., <code>ntfs-3g /dev/sda1 /mnt/windows</code>. Unmount first if it has been mounted.</li>
-<li>If you want to mount the partition during boot, you can add <code>/NTFS_partition /mount/point ntfs-3g defaults 0 0</code> to the end of your <code>/etc/fstab</code>.</li>
-</ol>
-<h2 id="references">References:</h2>
+  <p>There are a lot of Linux distributions to choose from. Here are some distros I like and recommand to start with:</p>
+<h2 id="debianubuntu-based">Debian/Ubuntu Based</h2>
 <ul>
-<li><a href="https://bugs.launchpad.net/ubuntu/+source/ntfs-3g/+bug/1728354">Bug #1728354 “ntfs: unsupported reparse point” : Bugs : ntfs-3g package : Ubuntu</a></li>
-<li><a href="https://aur.archlinux.org/packages/ntfs-3g-onedrive-bin">AUR (en) - ntfs-3g-onedrive-bin</a></li>
+<li><a href="https://linuxmint.com">Mint</a></li>
+<li><a href="https://zorinos.com/os">Zorin OS</a></li>
 </ul>
+<h2 id="arch-based">Arch Based</h2>
+<ul>
+<li><a href="https://cachyos.org/">CachyOS</a></li>
+</ul>
+<h2 id="why-not-ubuntu">Why not Ubuntu?</h2>
+<p>Since Ubuntu 22.04, it directs <code>apt install</code> to Snap by default, which is forced by Canonical and might lead to broken or unexpected packages. The default desktop layout (vertical teskbar and Activities) can also be somewhat confusing to newcomers.</p>
 
   
   <iframe id="like-button"
-    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.cc%2fen%2fposts%2faccess-windows-onedrive-from-linux%2f"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.cc%2fen%2flists%2fdistros%2f"
     frameborder=0></iframe>
   
   <script src="https://giscus.app/client.js"
@@ -84,6 +77,8 @@
           async>
   </script>
 </div>
+
+<a href="http://staratt.cc/en/lists/foss/">← FOSS List</a>
 
 
 <footer>

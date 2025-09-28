@@ -4,30 +4,37 @@
     <title>Lists on StarAtt</title>
     <link>http://staratt.cc/lists/</link>
     <description>Recent content in Lists on StarAtt</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 25 Sep 2025 11:21:48 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 01:08:28 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我寫的程式</title>
+      <link>http://staratt.cc/lists/%E6%88%91%E5%AF%AB%E7%9A%84%E7%A8%8B%E5%BC%8F/</link>
+      <pubDate>Mon, 29 Sep 2025 01:08:28 +0800</pubDate>
+      <guid>http://staratt.cc/lists/%E6%88%91%E5%AF%AB%E7%9A%84%E7%A8%8B%E5%BC%8F/</guid>
+      <description>遊戲 Pixel TD 像素化塔防遊戲，大二下在一個月裡用 Makecode Arcade 做的。波數無限，敵人會變強。鍵盤的 Z 跟 X 是模擬器的 A 跟 B。硬體和瀏覽器會影響塔的性能。 北藝大 Geoguessr</description>
+    </item>
     <item>
       <title>推薦的瀏覽器插件</title>
       <link>http://staratt.cc/lists/browser-extensions/</link>
       <pubDate>Thu, 25 Sep 2025 11:21:48 +0800</pubDate>
       <guid>http://staratt.cc/lists/browser-extensions/</guid>
-      <description>&lt;h2 id=&#34;沉浸式翻譯&#34;&gt;&lt;a href=&#34;https://immersivetranslate.com/&#34;&gt;沉浸式翻譯&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;雙語對照翻譯，可以翻譯網頁、PDF、圖片、文件、影片等。&lt;/p&gt;&#xA;&lt;h2 id=&#34;ublock-origin&#34;&gt;&lt;a href=&#34;https://ublockorigin.com/&#34;&gt;uBlock Origin&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;阻擋廣告、追蹤器。&lt;/p&gt;&#xA;&lt;h2 id=&#34;新同文堂&#34;&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/new-tongwentang/ldmgbgaoglmaiblpnphffibpbfchjaeg?hl=zh-TW&amp;amp;pli=1&#34;&gt;新同文堂&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;繁簡轉換。&lt;a href=&#34;https://addons.mozilla.org/zh-TW/firefox/addon/new_tongwentang&#34;&gt;Firefox 插件連結&lt;/a&gt;。&lt;/p&gt;&#xA;&lt;h2 id=&#34;harper&#34;&gt;&lt;a href=&#34;https://writewithharper.com/&#34;&gt;Harper&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;英文文法檢查。&lt;/p&gt;&#xA;&lt;h2 id=&#34;dark-reader&#34;&gt;&lt;a href=&#34;https://darkreader.org/&#34;&gt;Dark Reader&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;讓網頁變暗色模式。&lt;/p&gt;&#xA;&lt;h2 id=&#34;allow-right-click&#34;&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/allow-right-click/hnafhkjheookmokbkpnfpmemlppjdgoi&#34;&gt;Allow Right Click&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;按一下就可以在有特別處理右鍵選單的網頁上用瀏覽器原本的右鍵選單。&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/re-enable-right-click/&#34;&gt;Firefox 插件連結&lt;/a&gt;。&lt;/p&gt;</description>
+      <description>沉浸式翻譯 雙語對照翻譯，可以翻譯網頁、PDF、圖片、文件、影片等。 uBlock Origin 阻擋廣告、追蹤器。 新同文堂 繁簡轉換。Firefox 插件連結。 Harper 英文文法</description>
     </item>
     <item>
-      <title>Distros to begin</title>
+      <title>推薦的 Linux 發行版</title>
       <link>http://staratt.cc/lists/distros/</link>
       <pubDate>Mon, 10 Oct 2022 23:22:23 +0800</pubDate>
       <guid>http://staratt.cc/lists/distros/</guid>
-      <description>&lt;p&gt;There are a lot of Linux distributions to choose from. Here are some distros I like and recommand to start with:&lt;/p&gt;&#xA;&lt;h2 id=&#34;debianubuntu-based&#34;&gt;Debian/Ubuntu Based&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://neon.kde.org&#34;&gt;KDE neon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linuxmint.com&#34;&gt;Mint&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://zorinos.com/os&#34;&gt;Zorin OS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;arch-based&#34;&gt;Arch Based&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://manjaro.org&#34;&gt;Manjaro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cachyos.org/&#34;&gt;CachyOS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-not-ubuntu&#34;&gt;Why not Ubuntu?&lt;/h2&gt;&#xA;&lt;p&gt;Since Ubuntu 22.04, it directs &lt;code&gt;apt install&lt;/code&gt; to Snap by default, which is forced by Canonical and might lead to broken or unexpected packages. The default desktop layout (vertical teskbar and Activities) can also be somewhat confusing to newcomers.&lt;/p&gt;</description>
+      <description>Debian/Ubuntu 系 Zorin OS：好看好用，還有許多輔助 Windows 使用者轉換過來的設計。 Mint：簡潔穩定。 Arch 系 CachyOS：效能最佳。</description>
     </item>
     <item>
       <title>推薦的自由及開放原始碼軟體（FOSS）</title>
       <link>http://staratt.cc/lists/foss/</link>
       <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
       <guid>http://staratt.cc/lists/foss/</guid>
-      <description>&lt;p&gt;以下所有軟體皆可在 Windows、macOS 或 Linux 上運行。&lt;/p&gt;&#xA;&lt;h2 id=&#34;網頁瀏覽器&#34;&gt;網頁瀏覽器&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Floorp&lt;/li&gt;&#xA;&lt;li&gt;Brave&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;一般&#34;&gt;一般&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HackMD（線上協作）&lt;/li&gt;&#xA;&lt;li&gt;LibreOffice（辦公室套件）&lt;/li&gt;&#xA;&lt;li&gt;Marktext（Markdown 編輯器）&lt;/li&gt;&#xA;&lt;li&gt;Syncthing（裝置間 P2P 同步）&lt;/li&gt;&#xA;&lt;li&gt;Xplorer（檔案總管）&lt;/li&gt;&#xA;&lt;li&gt;ImageGlass（圖片瀏覽器）&lt;/li&gt;&#xA;&lt;li&gt;VLC Media Player（多媒體播放器）&lt;/li&gt;&#xA;&lt;li&gt;7-Zip（檔案壓縮與解壓縮）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;通訊&#34;&gt;通訊&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Element（一般通訊）&lt;/li&gt;&#xA;&lt;li&gt;Jitsi Meet（視訊）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;製譜&#34;&gt;製譜&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MuseScore&lt;/li&gt;&#xA;&lt;li&gt;Frescobaldi（Lilypond）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;daw&#34;&gt;DAW&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ardour&lt;/li&gt;&#xA;&lt;li&gt;Zrythm&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;圖像&#34;&gt;圖像&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Krita&lt;/li&gt;&#xA;&lt;li&gt;Inkscape&lt;/li&gt;&#xA;&lt;li&gt;GIMP&lt;/li&gt;&#xA;&lt;li&gt;Darktable&lt;/li&gt;&#xA;&lt;li&gt;Blender&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kdenlive&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;知識管理&#34;&gt;知識管理&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AFFiNE&lt;/li&gt;&#xA;&lt;li&gt;Anytype&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OBS Studio（螢幕錄影、串流）&lt;/li&gt;&#xA;&lt;li&gt;Rustdesk（遠端桌面）&lt;/li&gt;&#xA;&lt;li&gt;Audacity（基礎音訊編輯）&lt;/li&gt;&#xA;&lt;li&gt;Bitwarden（密碼管理）&lt;/li&gt;&#xA;&lt;li&gt;Nextcloud（NAS）&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>以下所有軟體皆可在 Windows、macOS 或 Linux 上運行。 網頁瀏覽器 Floorp Brave 一般 HackMD（線上協作） LibreOffice（辦公室套件） Mar</description>
     </item>
   </channel>
 </rss>

@@ -67,6 +67,32 @@
                 href="http://staratt.cc/en/tags/"
                 />
   </url><url>
+    <loc>http://staratt.cc/en/lists/distros/</loc>
+    <lastmod>2022-10-10T23:22:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/lists/distros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/lists/distros/"
+                />
+  </url><url>
+    <loc>http://staratt.cc/en/lists/</loc>
+    <lastmod>2022-10-10T23:22:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/lists/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/lists/"
+                />
+  </url><url>
     <loc>http://staratt.cc/en/lists/foss/</loc>
     <lastmod>2022-09-19T22:35:38+08:00</lastmod>
     <xhtml:link
@@ -78,19 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://staratt.cc/en/lists/foss/"
-                />
-  </url><url>
-    <loc>http://staratt.cc/en/lists/</loc>
-    <lastmod>2022-09-19T22:35:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.cc/lists/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.cc/en/lists/"
                 />
   </url><url>
     <loc>http://staratt.cc/en/about/</loc>

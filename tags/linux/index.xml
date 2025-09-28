@@ -4,7 +4,7 @@
     <title>Linux on StarAtt</title>
     <link>http://staratt.cc/tags/linux/</link>
     <description>Recent content in Linux on StarAtt</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 27 Jun 2025 13:09:15 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/linux/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>http://staratt.cc/posts/cachyos-installation/</link>
       <pubDate>Fri, 27 Jun 2025 13:09:15 +0800</pubDate>
       <guid>http://staratt.cc/posts/cachyos-installation/</guid>
-      <description>&lt;h1 id=&#34;cachyos-安裝記錄setup-guide&#34;&gt;CachyOS 安裝記錄（Setup guide）&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://staratt.cc/img/CachyOS.png&#34; alt=&#34;CachyOS&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;準備&#34;&gt;準備&lt;/h2&gt;&#xA;&lt;p&gt;到 &lt;a href=&#34;https://cachyos.org/&#34;&gt;CachyOS&lt;/a&gt; 的網站下載 iso（Desktop Edition）。&#xA;準備至少 4GB 的隨身碟（目前 iso 檔約 2.8 GB）當安裝碟。因為 CachyOS 不支援 &lt;a href=&#34;https://www.ventoy.net/en/index.html&#34;&gt;Ventoy&lt;/a&gt;，所以得用傳統方法如 &lt;code&gt;dd&lt;/code&gt; 或 &lt;a href=&#34;https://rufus.ie/zh_TW/&#34;&gt;Rufus&lt;/a&gt;、&lt;a href=&#34;https://etcher.balena.io/&#34;&gt;balenaEtcher&lt;/a&gt; 等工具做安裝碟。&lt;/p&gt;</description>
+      <description>CachyOS 安裝記錄（Setup guide） 準備 到 CachyOS 的網站下載 iso（Desktop Edition）。 準備至少 4GB 的隨身碟（目前 iso 檔約 2.8 GB）當安裝碟。</description>
     </item>
     <item>
       <title>在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
       <link>http://staratt.cc/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
       <guid>http://staratt.cc/posts/access-windows-onedrive-from-linux/</guid>
-      <description>&lt;p&gt;朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;（若未安裝）安裝 &lt;code&gt;ntfs-3g&lt;/code&gt;（支援 FUSE 者後續掛載時不須 &lt;code&gt;sudo&lt;/code&gt;）&lt;/li&gt;&#xA;&lt;li&gt;從&lt;a href=&#34;https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip&#34;&gt;這裡&lt;/a&gt;下載插件&lt;/li&gt;&#xA;&lt;li&gt;解壓縮後把相應平台的插件（如 &lt;code&gt;linux-64&lt;/code&gt; 裡的 &lt;code&gt;ntfs-plugin-9000001a.so&lt;/code&gt;）放到 &lt;code&gt;/usr/lib/ntfs-3g/&lt;/code&gt; 底下（可能需要自行建立資料夾）&lt;/li&gt;&#xA;&lt;li&gt;使用 &lt;code&gt;sudo ntfs-3g /分割區 /掛載點&lt;/code&gt; 或 GUI 掛載 Windows 分割區，例如：&lt;code&gt;sudo ntfs-3g /dev/sda1 /mnt/windows&lt;/code&gt;。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。&lt;/p&gt;</description>
+      <description>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。 （若未安裝）安裝 ntfs-3g（支援 FUSE 者後</description>
     </item>
   </channel>
 </rss>
