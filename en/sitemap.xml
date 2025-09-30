@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://staratt.cc/en/lists/</loc>
+    <lastmod>2025-09-29T14:14:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/lists/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/lists/"
+                />
+  </url><url>
+    <loc>http://staratt.cc/en/lists/music/</loc>
+    <lastmod>2025-09-29T14:14:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/lists/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/lists/music/"
+                />
+  </url><url>
+    <loc>http://staratt.cc/en/</loc>
+    <lastmod>2025-09-29T14:14:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://staratt.cc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://staratt.cc/en/"
+                />
+  </url><url>
     <loc>http://staratt.cc/en/posts/access-windows-onedrive-from-linux/</loc>
     <lastmod>2023-02-13T11:20:51+08:00</lastmod>
     <xhtml:link
@@ -41,19 +80,6 @@
                 href="http://staratt.cc/en/posts/"
                 />
   </url><url>
-    <loc>http://staratt.cc/en/</loc>
-    <lastmod>2023-02-13T11:20:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.cc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.cc/en/"
-                />
-  </url><url>
     <loc>http://staratt.cc/en/tags/</loc>
     <lastmod>2023-02-13T11:20:51+08:00</lastmod>
     <xhtml:link
@@ -78,19 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://staratt.cc/en/lists/distros/"
-                />
-  </url><url>
-    <loc>http://staratt.cc/en/lists/</loc>
-    <lastmod>2022-10-10T23:22:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://staratt.cc/lists/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://staratt.cc/en/lists/"
                 />
   </url><url>
     <loc>http://staratt.cc/en/lists/foss/</loc>
