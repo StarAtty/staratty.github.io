@@ -11,7 +11,7 @@
   <script defer src="https://analytics.us.umami.is/script.js" data-website-id="e76c3f79-2a50-4978-84e0-e750cc419113"></script>
   
   
-  <title>StarAtt ｜ 在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
+  <title>StarAtt ｜ 認識管樂團</title>
 </head>
 <body><nav>
   
@@ -31,40 +31,24 @@
   
   <center>
     <h1>
-      在 Linux 存取 Windows 分割區的 OneDrive 資料夾
+      認識管樂團
     </h1>
     <h4>
       <time>
-        2023/02/13
+        2025/10/03
       </time>
       <h5>
         
-        
-        <a href="http://staratt.cc/tags/linux">Linux</a>
-        
-      </h5>
-</ul>
-
     </h4>
   </center>
   
-  <p>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。</p>
-<ol>
-<li>（若未安裝）安裝 <code>ntfs-3g</code>（支援 FUSE 者後續掛載時不須 <code>sudo</code>）</li>
-<li>從<a href="https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip">這裡</a>下載插件</li>
-<li>解壓縮後把相應平台的插件（如 <code>linux-64</code> 裡的 <code>ntfs-plugin-9000001a.so</code>）放到 <code>/usr/lib/ntfs-3g/</code> 底下（可能需要自行建立資料夾）</li>
-<li>使用 <code>sudo ntfs-3g /分割區 /掛載點</code> 或 GUI 掛載 Windows 分割區，例如：<code>sudo ntfs-3g /dev/sda1 /mnt/windows</code>。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區</li>
-</ol>
-<p>結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。</p>
-<h3 id="資料來源">資料來源</h3>
-<ul>
-<li><a href="https://bugs.launchpad.net/ubuntu/+source/ntfs-3g/+bug/1728354">Bug #1728354 “ntfs: unsupported reparse point” : Bugs : ntfs-3g package : Ubuntu</a></li>
-<li><a href="https://aur.archlinux.org/packages/ntfs-3g-onedrive-bin">AUR (en) - ntfs-3g-onedrive-bin</a></li>
-</ul>
+  <p><a href="https://hackmd.io/@StarAtt/BkT_ReLI9#/">認識管樂團</a></p>
+<p>2022 年用 HackMD 做的投影片，用於在兩小時內介紹管樂團的相關知識。附加<a href="https://www.youtube.com/playlist?list=PLFmofFrGm0Bfpgn2BXBu9X2srMd4ibRlX">龐大的播放清單</a>。</p>
+<p>自己糊了一些 CSS，音域是直接用 ABC Notation 寫的。</p>
 
   
   <iframe id="like-button"
-    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.cc%2fposts%2faccess-windows-onedrive-from-linux%2f"
+    src="https://button.like.co/in/embed/tea55688/button?referrer=http%3a%2f%2fstaratt.cc%2flists%2fconcert-band%2f"
     frameborder=0></iframe>
   
   <script src="https://giscus.app/client.js"
@@ -84,10 +68,8 @@
   </script>
 </div>
 
-<a href="http://staratt.cc/posts/%E5%A4%A9%E7%A9%BA/">← 天空</a>
+<a href="http://staratt.cc/lists/music/">← 我寫的音樂</a>
 
-
-<a class="right" href="http://staratt.cc/posts/pixel-td/">Pixel TD →</a>
 
 <footer>
     Email: staratt@pm.me
