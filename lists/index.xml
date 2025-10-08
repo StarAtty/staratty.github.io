@@ -6,15 +6,8 @@
     <description>Recent content in Lists on StarAtt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 03 Oct 2025 01:58:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 14:14:17 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/lists/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>認識管樂團</title>
-      <link>http://staratt.cc/lists/concert-band/</link>
-      <pubDate>Fri, 03 Oct 2025 01:58:17 +0800</pubDate>
-      <guid>http://staratt.cc/lists/concert-band/</guid>
-      <description>認識管樂團 2022 年用 HackMD 做的投影片，用於在兩小時內介紹管樂團的相關知識。附加龐大的播放清單。 自己糊了一些 CSS，音域是直接用 ABC Notation 寫的。</description>
-    </item>
     <item>
       <title>我寫的音樂</title>
       <link>http://staratt.cc/lists/music/</link>
@@ -49,6 +42,13 @@
       <pubDate>Mon, 19 Sep 2022 22:35:38 +0800</pubDate>
       <guid>http://staratt.cc/lists/foss/</guid>
       <description>以下所有軟體皆可在 Windows、macOS 或 Linux 上運行。 網頁瀏覽器 Floorp Brave 一般 HackMD（線上協作） LibreOffice（辦公室套件） Mar</description>
+    </item>
+    <item>
+      <title>認識管樂團</title>
+      <link>http://staratt.cc/lists/concert-band/</link>
+      <pubDate>Fri, 03 Jun 2022 01:58:17 +0800</pubDate>
+      <guid>http://staratt.cc/lists/concert-band/</guid>
+      <description>認識管樂團 2022 年用 HackMD 做的投影片，用於在兩小時內介紹管樂團的相關知識。附加龐大的播放清單。 自己糊了一些 CSS，音域是直接用 ABC Notation 寫的。</description>
     </item>
   </channel>
 </rss>
