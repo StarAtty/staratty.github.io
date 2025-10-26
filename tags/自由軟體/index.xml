@@ -4,7 +4,7 @@
     <title>自由軟體 on StarAtt</title>
     <link>http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
     <description>Recent content in 自由軟體 on StarAtt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 12 Sep 2025 22:54:07 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>http://staratt.cc/posts/%E6%94%BE%E4%B8%8B%E5%BE%AE%E8%BB%9F-office-%E7%9A%84%E6%96%B9%E6%B3%95/</link>
       <pubDate>Fri, 12 Sep 2025 22:54:07 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E6%94%BE%E4%B8%8B%E5%BE%AE%E8%BB%9F-office-%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
-      <description>從學校到公司行號，微軟 Office 幾乎無所不在。 寫作業？Word。寫報告？Word。寫計畫案？Word。填保單？Excel。算成績？Excel。做簡報</description>
+      <description>&lt;p&gt;從學校到公司行號，微軟 Office 幾乎無所不在。&lt;/p&gt;&#xA;&lt;p&gt;寫作業？Word。寫報告？Word。寫計畫案？Word。填保單？Excel。算成績？Excel。做簡報？PPT（還會有人叫成 PTT，同時不知道 PTT 或 PowerPoint 是什麼）。好像習以為常。&lt;/p&gt;</description>
     </item>
     <item>
       <title>用 Sonic Visualizer 測音（的頻率）</title>
       <link>http://staratt.cc/posts/%E7%94%A8-sonic-visualizer-%E6%B8%AC%E9%9F%B3%E7%9A%84%E9%A0%BB%E7%8E%87/</link>
       <pubDate>Fri, 09 Aug 2024 12:54:31 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E7%94%A8-sonic-visualizer-%E6%B8%AC%E9%9F%B3%E7%9A%84%E9%A0%BB%E7%8E%87/</guid>
-      <description>Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的</description>
+      <description>&lt;p&gt;Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的某一段有多大聲，頻譜可以看到聲音分佈在哪些頻率，頻譜圖可以看到一段時間內的頻率分佈。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
