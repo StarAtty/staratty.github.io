@@ -4,7 +4,7 @@
     <title>Fediverse on StarAtt</title>
     <link>http://staratt.cc/tags/fediverse/</link>
     <description>Recent content in Fediverse on StarAtt</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 24 Jun 2023 16:03:53 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</link>
       <pubDate>Sat, 24 Jun 2023 16:03:53 +0800</pubDate>
       <guid>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出走到 Lemmy、kbin 等基於 Fediverse 的平台。&lt;/p&gt;</description>
+      <description>Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出</description>
     </item>
   </channel>
 </rss>

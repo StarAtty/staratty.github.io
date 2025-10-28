@@ -4,7 +4,7 @@
     <title>Posts on StarAtt</title>
     <link>http://staratt.cc/posts/</link>
     <description>Recent content in Posts on StarAtt</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 25 Sep 2025 15:54:55 +0800</lastBuildDate>
     <atom:link href="http://staratt.cc/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,98 +13,98 @@
       <link>http://staratt.cc/posts/%E4%BA%8C%E5%8B%95%E6%A9%9F/</link>
       <pubDate>Thu, 25 Sep 2025 15:54:55 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E4%BA%8C%E5%8B%95%E6%A9%9F/</guid>
-      <description>&lt;p&gt;是個晴朗的早晨。和煦的陽光透過窗戶輕柔地灑落臉龐，被白天喚醒的你立刻睜開眼睛，興奮地爬起身、跳下床，迫不及待地準備開始新的一天——&lt;/p&gt;&#xA;&lt;p&gt;這大概不是每一個早上的樣子，你甚至也許記不清楚上次自己有這種感覺是什麼時候。&lt;/p&gt;</description>
+      <description>是個晴朗的早晨。和煦的陽光透過窗戶輕柔地灑落臉龐，被白天喚醒的你立刻睜開眼睛，興奮地爬起身、跳下床，迫不及待地準備開始新的一天—— 這大概不是</description>
     </item>
     <item>
       <title>一、時間</title>
       <link>http://staratt.cc/posts/%E4%B8%80%E6%99%82%E9%96%93/</link>
       <pubDate>Thu, 18 Sep 2025 18:14:14 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E4%B8%80%E6%99%82%E9%96%93/</guid>
-      <description>&lt;p&gt;世界上最珍貴的資源是什麼？&lt;/p&gt;&#xA;&lt;p&gt;時間。&lt;/p&gt;&#xA;&lt;p&gt;吃飯需要時間，坐車需要時間，聊天需要時間，睡覺需要時間，做任何事都需要時間。俗話說時間不等人：流星倏忽即逝，青春一去不復返，縱有全世界的錢財也買不回昨天。人能活的時間就幾十年，每天都是八萬六千四百秒。如果每天給你八萬六千四百元，用不完的錢就全部歸零，你會不會想方設法把每一塊錢花完？若是如此，是不是也該好好善用時間呢？&lt;/p&gt;</description>
+      <description>世界上最珍貴的資源是什麼？ 時間。 吃飯需要時間，坐車需要時間，聊天需要時間，睡覺需要時間，做任何事都需要時間。俗話說時間不等人：流星倏忽即逝，</description>
     </item>
     <item>
       <title>放下微軟 Office 的方法</title>
       <link>http://staratt.cc/posts/%E6%94%BE%E4%B8%8B%E5%BE%AE%E8%BB%9F-office-%E7%9A%84%E6%96%B9%E6%B3%95/</link>
       <pubDate>Fri, 12 Sep 2025 22:54:07 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E6%94%BE%E4%B8%8B%E5%BE%AE%E8%BB%9F-office-%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;p&gt;從學校到公司行號，微軟 Office 幾乎無所不在。&lt;/p&gt;&#xA;&lt;p&gt;寫作業？Word。寫報告？Word。寫計畫案？Word。填保單？Excel。算成績？Excel。做簡報？PPT（還會有人叫成 PTT，同時不知道 PTT 或 PowerPoint 是什麼）。好像習以為常。&lt;/p&gt;</description>
+      <description>從學校到公司行號，微軟 Office 幾乎無所不在。 寫作業？Word。寫報告？Word。寫計畫案？Word。填保單？Excel。算成績？Excel。做簡報</description>
     </item>
     <item>
       <title>該做什麼？</title>
       <link>http://staratt.cc/posts/%E8%A9%B2%E5%81%9A%E4%BB%80%E9%BA%BC/</link>
       <pubDate>Fri, 29 Aug 2025 10:22:41 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E8%A9%B2%E5%81%9A%E4%BB%80%E9%BA%BC/</guid>
-      <description>&lt;p&gt;又是平常的一天。該做什麼？看個社群，吃個東西，想到可以做什麼，做到一半又想到別的事情，東摸摸，西摸摸，忘記原本要做什麼，忘了自己原本想做什麼。該做什麼呢？&lt;/p&gt;</description>
+      <description>又是平常的一天。該做什麼？看個社群，吃個東西，想到可以做什麼，做到一半又想到別的事情，東摸摸，西摸摸，忘記原本要做什麼，忘了自己原本想做什麼</description>
     </item>
     <item>
       <title>安裝 CachyOS</title>
       <link>http://staratt.cc/posts/cachyos-installation/</link>
       <pubDate>Fri, 27 Jun 2025 13:09:15 +0800</pubDate>
       <guid>http://staratt.cc/posts/cachyos-installation/</guid>
-      <description>&lt;h1 id=&#34;cachyos-安裝記錄setup-guide&#34;&gt;CachyOS 安裝記錄（Setup guide）&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://staratt.cc/img/CachyOS.png&#34; alt=&#34;CachyOS&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;準備&#34;&gt;準備&lt;/h2&gt;&#xA;&lt;p&gt;到 &lt;a href=&#34;https://cachyos.org/&#34;&gt;CachyOS&lt;/a&gt; 的網站下載 iso（Desktop Edition）。&#xA;準備至少 4GB 的隨身碟（目前 iso 檔約 2.8 GB）當安裝碟。因為 CachyOS 不支援 &lt;a href=&#34;https://www.ventoy.net/en/index.html&#34;&gt;Ventoy&lt;/a&gt;，所以得用傳統方法如 &lt;code&gt;dd&lt;/code&gt; 或 &lt;a href=&#34;https://rufus.ie/zh_TW/&#34;&gt;Rufus&lt;/a&gt;、&lt;a href=&#34;https://etcher.balena.io/&#34;&gt;balenaEtcher&lt;/a&gt; 等工具做安裝碟。&lt;/p&gt;</description>
+      <description>CachyOS 安裝記錄（Setup guide） 準備 到 CachyOS 的網站下載 iso（Desktop Edition）。 準備至少 4GB 的隨身碟（目前 iso 檔約 2.8 GB）當安裝碟。</description>
     </item>
     <item>
       <title>Bali Time</title>
       <link>http://staratt.cc/posts/bali-time/</link>
       <pubDate>Fri, 25 Apr 2025 20:47:42 +0800</pubDate>
       <guid>http://staratt.cc/posts/bali-time/</guid>
-      <description>&lt;p&gt;到了畢製的季節，適合放鬆。來聽（看）《Bali Time》，體驗峇里島的心情。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL_a0BqgPWN0rtkn5-0d5iwJ81EUrg2qZy&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://video.staratt.cc/w/p/c9YcQprWBJRpdWjRhDJrYh&#34;&gt;Peertube&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/staratt/sets/bali-time&#34;&gt;Soundcloud&lt;/a&gt;&lt;/p&gt;</description>
+      <description>到了畢製的季節，適合放鬆。來聽（看）《Bali Time》，體驗峇里島的心情。 Youtube Peertube Soundcloud</description>
     </item>
     <item>
       <title>Imbroglio</title>
       <link>http://staratt.cc/posts/imbroglio/</link>
       <pubDate>Thu, 19 Dec 2024 15:14:58 +0800</pubDate>
       <guid>http://staratt.cc/posts/imbroglio/</guid>
-      <description>&lt;p&gt;又寫了一首管樂團，不過這次是斷續寫的。沒有什麼曲解，音樂寫什麼就是什麼。&lt;/p&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1976448587&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/staratt&#34; title=&#34;StarAtt&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;StarAtt&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/staratt/imbroglio&#34; title=&#34;Imbroglio&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Imbroglio&lt;/a&gt;&lt;/div&gt;</description>
+      <description>又寫了一首管樂團，不過這次是斷續寫的。沒有什麼曲解，音樂寫什麼就是什麼。 StarAtt · Imbroglio</description>
     </item>
     <item>
       <title>Garden</title>
       <link>http://staratt.cc/posts/garden/</link>
       <pubDate>Thu, 19 Sep 2024 20:26:28 +0800</pubDate>
       <guid>http://staratt.cc/posts/garden/</guid>
-      <description>&lt;p&gt;好幾年沒寫完整首管樂團的曲子。&lt;/p&gt;&#xA;&lt;p&gt;一開始為了要寫一段在腦海裡放很久的東西先撐完了和緩的開頭，寫著寫著想起另一個夾雜複拍子的主題，就離原本暫時的標題「3456」越來越遠了。&lt;/p&gt;</description>
+      <description>好幾年沒寫完整首管樂團的曲子。 一開始為了要寫一段在腦海裡放很久的東西先撐完了和緩的開頭，寫著寫著想起另一個夾雜複拍子的主題，就離原本暫時的標</description>
     </item>
     <item>
       <title>用 Sonic Visualizer 測音（的頻率）</title>
       <link>http://staratt.cc/posts/%E7%94%A8-sonic-visualizer-%E6%B8%AC%E9%9F%B3%E7%9A%84%E9%A0%BB%E7%8E%87/</link>
       <pubDate>Fri, 09 Aug 2024 12:54:31 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E7%94%A8-sonic-visualizer-%E6%B8%AC%E9%9F%B3%E7%9A%84%E9%A0%BB%E7%8E%87/</guid>
-      <description>&lt;p&gt;Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的某一段有多大聲，頻譜可以看到聲音分佈在哪些頻率，頻譜圖可以看到一段時間內的頻率分佈。&lt;/p&gt;</description>
+      <description>Sonic Visualizer 是用來看聲音波形（Waveform）、頻譜（Spectrum）、頻譜圖（Spectrogram）等的自由軟體。簡單來說，波形會顯示聲音的</description>
     </item>
     <item>
       <title>日記</title>
       <link>http://staratt.cc/posts/%E6%97%A5%E8%A8%98/</link>
       <pubDate>Sat, 23 Mar 2024 10:49:08 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E6%97%A5%E8%A8%98/</guid>
-      <description>&lt;p&gt;如果一天沒有留下任何記錄，午夜一過便如過眼雲煙，半點不著痕跡。日記使人為一天作結，整理一天的所見所得，為開始下一天準備；日記也為人的生命旅程寫下歷史，在時間軸上為事件畫上清楚的坐標，乘載對生活的思考，讓未來的自己得以追溯過去的種種。&lt;/p&gt;</description>
+      <description>如果一天沒有留下任何記錄，午夜一過便如過眼雲煙，半點不著痕跡。日記使人為一天作結，整理一天的所見所得，為開始下一天準備；日記也為人的生命旅程</description>
     </item>
     <item>
       <title>行列輸入法</title>
       <link>http://staratt.cc/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</link>
       <pubDate>Sun, 18 Feb 2024 21:06:47 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95/</guid>
-      <description>&lt;p&gt;我從 2021 年開始學行列輸入法。當時想學個字形輸入法，查一查發現行列輸入法有每分鐘 215.5 字的紀錄，免費、開源又有&lt;a href=&#34;https://array30.misterfishup.com&#34;&gt;魚上君做的介紹兼練習網站&lt;/a&gt;，我就開始學了。雖說我平常打中文的頻率實在不高，但每天打字練習一個月下來也開始能寫日記，沒幾個月就完全改用行列輸入法了（記得那時候剛好在翻譯 0 A.D.）。教學網站已有，這篇文章寫的主要是我用行列輸入法約三年來的心得，以及各作業系統上目前我認為最好的行列輸入方案。&lt;/p&gt;</description>
+      <description>我從 2021 年開始學行列輸入法。當時想學個字形輸入法，查一查發現行列輸入法有每分鐘 215.5 字的紀錄，免費、開源又有魚上君做的介紹兼練習網站，我就開始學了</description>
     </item>
     <item>
       <title>Reddit 的新 API 條款會使人們投向去中心化平台嗎？</title>
       <link>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</link>
       <pubDate>Sat, 24 Jun 2023 16:03:53 +0800</pubDate>
       <guid>http://staratt.cc/posts/reddit-%E7%9A%84%E6%96%B0-api-%E6%A2%9D%E6%AC%BE%E6%9C%83%E4%BD%BF%E4%BA%BA%E5%80%91%E6%8A%95%E5%90%91%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%B9%B3%E5%8F%B0%E5%97%8E/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出走到 Lemmy、kbin 等基於 Fediverse 的平台。&lt;/p&gt;</description>
+      <description>Reddit 從宣布將有新 API 條款到公告定價隔了一個半月，第三方開發者只有短短的 30 天應對驚人的高價。CEO Steve Huffman 蔑視社群的態度引起抗爭，最終導致許多使用者出</description>
     </item>
     <item>
       <title>Pixel TD</title>
       <link>http://staratt.cc/posts/pixel-td/</link>
       <pubDate>Thu, 01 Jun 2023 03:08:56 +0800</pubDate>
       <guid>http://staratt.cc/posts/pixel-td/</guid>
-      <description>&lt;p&gt;用微軟的 Makecode Arcade 做了一個像素化的塔防遊戲。&#xA;&lt;a href=&#34;https://arcade.makecode.com/S23056-45201-51045-57675&#34;&gt;Makecode Arcade&lt;/a&gt;&lt;/p&gt;</description>
+      <description>用微軟的 Makecode Arcade 做了一個像素化的塔防遊戲。 Makecode Arcade</description>
     </item>
     <item>
       <title>在 Linux 存取 Windows 分割區的 OneDrive 資料夾</title>
       <link>http://staratt.cc/posts/access-windows-onedrive-from-linux/</link>
       <pubDate>Mon, 13 Feb 2023 11:20:51 +0800</pubDate>
       <guid>http://staratt.cc/posts/access-windows-onedrive-from-linux/</guid>
-      <description>&lt;p&gt;朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;（若未安裝）安裝 &lt;code&gt;ntfs-3g&lt;/code&gt;（支援 FUSE 者後續掛載時不須 &lt;code&gt;sudo&lt;/code&gt;）&lt;/li&gt;&#xA;&lt;li&gt;從&lt;a href=&#34;https://web.archive.org/web/20211215174346if_/https://jp-andre.pagesperso-orange.fr/onedrive.zip&#34;&gt;這裡&lt;/a&gt;下載插件&lt;/li&gt;&#xA;&lt;li&gt;解壓縮後把相應平台的插件（如 &lt;code&gt;linux-64&lt;/code&gt; 裡的 &lt;code&gt;ntfs-plugin-9000001a.so&lt;/code&gt;）放到 &lt;code&gt;/usr/lib/ntfs-3g/&lt;/code&gt; 底下（可能需要自行建立資料夾）&lt;/li&gt;&#xA;&lt;li&gt;使用 &lt;code&gt;sudo ntfs-3g /分割區 /掛載點&lt;/code&gt; 或 GUI 掛載 Windows 分割區，例如：&lt;code&gt;sudo ntfs-3g /dev/sda1 /mnt/windows&lt;/code&gt;。若已掛載則須先卸除 OneDrive 所在的 Windows 分割區&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;結果：可以讀寫所有 OneDrive 在 Windows 上的檔案，但不會同步。&lt;/p&gt;</description>
+      <description>朋友存了不少檔案在 OneDrive 上，問怎麼在 Linux 直接存取 Windows 上的 OneDrive 資料夾（會顯示 unsupported reparse point 錯誤訊息），這篇文就誕生了。 （若未安裝）安裝 ntfs-3g（支援 FUSE 者後</description>
     </item>
     <item>
       <title>天空</title>
@@ -125,28 +125,28 @@
       <link>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</link>
       <pubDate>Thu, 01 Oct 2020 20:25:54 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E4%B8%AD%E7%A7%8B/</guid>
-      <description>&lt;p&gt;星垂平野闊&lt;/p&gt;&#xA;&lt;p&gt;月傍九霄多&lt;/p&gt;&#xA;&lt;p&gt;塵匣元開鏡&lt;/p&gt;&#xA;&lt;p&gt;有淚如金波&lt;/p&gt;</description>
+      <description>星垂平野闊 月傍九霄多 塵匣元開鏡 有淚如金波</description>
     </item>
     <item>
       <title>居</title>
       <link>http://staratt.cc/posts/%E5%B1%85/</link>
       <pubDate>Wed, 30 Sep 2020 20:39:51 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E5%B1%85/</guid>
-      <description>&lt;p&gt;滅燭憐光滿&lt;/p&gt;&#xA;&lt;p&gt;返影入深林&lt;/p&gt;&#xA;&lt;p&gt;人生不相見&lt;/p&gt;&#xA;&lt;p&gt;山月照彈琴&lt;/p&gt;</description>
+      <description>滅燭憐光滿 返影入深林 人生不相見 山月照彈琴</description>
     </item>
     <item>
       <title>時</title>
       <link>http://staratt.cc/posts/%E6%99%82/</link>
       <pubDate>Tue, 29 Sep 2020 20:29:15 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E6%99%82/</guid>
-      <description>&lt;p&gt;柳邊人歇待船歸&lt;/p&gt;&#xA;&lt;p&gt;鄉音無改鬢毛催&lt;/p&gt;&#xA;&lt;p&gt;勸君莫惜金縷衣&lt;/p&gt;&#xA;&lt;p&gt;古來征戰幾人回&lt;/p&gt;</description>
+      <description>柳邊人歇待船歸 鄉音無改鬢毛催 勸君莫惜金縷衣 古來征戰幾人回</description>
     </item>
     <item>
       <title>三十三</title>
       <link>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</link>
       <pubDate>Tue, 14 Jul 2020 19:56:12 +0800</pubDate>
       <guid>http://staratt.cc/posts/%E4%B8%89%E5%8D%81%E4%B8%89/</guid>
-      <description>&lt;p&gt;早歲那知世事艱&lt;/p&gt;&#xA;&lt;p&gt;自謂深根百世安&lt;/p&gt;&#xA;&lt;p&gt;如今悔恨將何益&lt;/p&gt;&#xA;&lt;p&gt;蠟炬成灰淚始乾&lt;/p&gt;</description>
+      <description>早歲那知世事艱 自謂深根百世安 如今悔恨將何益 蠟炬成灰淚始乾</description>
     </item>
   </channel>
 </rss>
